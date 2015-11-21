@@ -36,4 +36,4 @@ Intel Minnowboard MAX
     #       grapics console by starting: vncviewer $YOUR_SERVER_IP:3
 
 
-http://linuxgizmos.com/wind-river-launches-helix-cloud-iot-platform-with-rocket-rtos-and-pulsar-linux/
+- http://linuxgizmos.com/wind-river-launches-helix-cloud-iot-platform-with-rocket-rtos-and-pulsar-linux/

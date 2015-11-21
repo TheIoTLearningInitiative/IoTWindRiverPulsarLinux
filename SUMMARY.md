@@ -5,5 +5,5 @@
    * [Emulators](documentation/Emulators.md)
    * [Containers](documentation/Containers.md)
 * [Package Management](documentation/PackageManagement.md)
-* [Getting Started](GettingStarted.md)
+* [Getting Started](documentation/GettingStarted.md)
 

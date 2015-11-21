@@ -1,4 +1,4 @@
 Package Management
 ==
 
-Smart Package Manager (SmartPM)
+## Smart Package Manager (SmartPM)

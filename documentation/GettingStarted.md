@@ -7,7 +7,6 @@
 - Network Configuration
 - Device Updates
 - Package Management
-- 
 
 ## Introduction
 

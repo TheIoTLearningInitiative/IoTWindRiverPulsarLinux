@@ -6,4 +6,4 @@ Package Management
 
 > 
 
-- [Smart Package Manager](https://labix.org/smart)
+- [Smart Package Manager Homepage](https://labix.org/smart)

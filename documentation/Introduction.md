@@ -26,7 +26,8 @@ Intel Minnowboard MAX
      cd /opt/installer
      ./sbin/cubeit-install -b images/cube-essential-* $DEV
 
-### login: root  password: incendia
+    login: root
+    password: incendia
 
 ### Optionally simulate the image with kvm/qemu
 

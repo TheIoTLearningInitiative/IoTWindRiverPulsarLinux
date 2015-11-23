@@ -46,3 +46,4 @@ Wind River Helix
 
 - [Wind River Helix Lab Cloud Homepage](http://www.windriver.com/products/helix/lab-cloud/)
 - [Wind River Helix Lab Cloud Overview](http://www.windriver.com/products/product-overviews/wr-lab-cloud_overview.pdf)
+- [Wind River Helix Lab Cloud Overview One Page](http://www.windriver.com/products/product-overviews/wr-lab-cloud-onepage-overview.pdf)

@@ -127,6 +127,11 @@ This layer:
 - includes the nested 'kernel-dev' layer for local clones and externalsrc development
 
 ## wr-tools-debug
+
+> This layer provides target agents to support command line and Workbench 
+debugging.  The tools provided include tcf-agent, agent-proxy and
+wrproxy.
+
 ## wrlabs-integration
 ## wrlinux
 ## layers/wrll-hac

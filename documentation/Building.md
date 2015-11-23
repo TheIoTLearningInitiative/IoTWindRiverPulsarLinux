@@ -26,7 +26,7 @@ Intel Minnowboard MAX
         Submodule 'xilinx-zynq' (https://github.com/WindRiver-OpenSourceLabs/xilinx-zynq) registered for path 'layers/xilinx-zynq'
         Submodule 'overc-installer' (https://github.com/WindRiver-OpenSourceLabs/overc-installer) registered for path 'overc-installer'
     user@host:~$ cd wr-core
-    user@host:~$ ./scripts/host_package_install.sh --install --yes
+    user@host:~/wr-core$ ./scripts/host_package_install.sh --install --yes
     user@host:~$ . init-intel-x86-env
     user@host:~$ bitbake cube-domE cube-dom0 cube-essential
 

@@ -130,33 +130,34 @@ meta-openembedded
 
 > Collection of OpenEmbedded layers
 
-meta-efl
-meta-filesystems
-meta-gnome
-meta-gpe
-meta-initramfs
-meta-multimedia
-meta-networking
-meta-oe
-meta-perl
-meta-python
-meta-ruby
-meta-systemd
-meta-webserver
-meta-xfce
+- meta-efl
+- meta-filesystems
+- meta-gnome
+- meta-gpe
+- meta-initramfs
+- meta-multimedia
+- meta-networking
+- meta-oe
+- meta-perl
+- meta-python
+- meta-ruby
+- meta-systemd
+- meta-webserver
+- meta-xfce
 
-- meta-overc
-- meta-virtualization
-- oe-core
-- oe-meta-go
-- qemuarm
-- qemuarm9
-- wr-base
-- wr-fixes
-- wr-kernel
-- wr-tools-debug
-- wrlabs-integration
-- wrlinux
-- layers/wrll-hac
-- xilinx-zynq
-- overc-installer
+
+meta-overc
+meta-virtualization
+oe-core
+oe-meta-go
+qemuarm
+qemuarm9
+wr-base
+wr-fixes
+wr-kernel
+wr-tools-debug
+wrlabs-integration
+wrlinux
+layers/wrll-hac
+xilinx-zynq
+overc-installer

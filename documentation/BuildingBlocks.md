@@ -61,6 +61,11 @@ meta-virtualization
 packages necessary for constructing OE-based virtualized solutions.
 
 oe-core
+
+> OpenEmbedded-Core is a layer containing the core metadata for current versions
+of OpenEmbedded. It is distro-less (can build a functional image with
+DISTRO = "nodistro") and contains only emulated machine support.
+
 oe-meta-go
 qemuarm
 qemuarm9

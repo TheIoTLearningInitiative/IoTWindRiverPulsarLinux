@@ -146,6 +146,8 @@ https://github.com/WindRiver-OpenSourceLabs/wr-kernel
 
 > This layer provides target agents to support command line and Workbench debugging.  The tools provided include tcf-agent, agent-proxy and wrproxy.
 
+https://github.com/WindRiver-OpenSourceLabs/wr-tools-debug
+
 ## wrlabs-integration
 
 > This layer provides fixes to yocto project layers to allow unmodifed Wind River layers to work in the absence of the full Wind River toolchain.

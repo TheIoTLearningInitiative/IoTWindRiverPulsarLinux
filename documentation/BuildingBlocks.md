@@ -49,15 +49,21 @@ git://git.yoctoproject.org/meta-intel
 - meta-webserver
 - meta-xfce
 
+git://git.openembedded.org/meta-openembedded
+
 ## meta-overc
 
 > The goal of these layers is to create a yocto build which can be deployed on a modern server to provide a useable environment which in turn can build yocto (and indeed the variant from this layer itself).  A lot of the heavy lifting to achieve this has been done by the build-appliance image type of yocto, but that is limited to virtual deployment, and does not have all the development tools and/or man pages and things like tab completion that make a system "useable".  This layer attempts to close that gap.
 
 > Both meta-overc, and meta-overc/meta-cube should be added to your bblayers file.
 
+https://github.com/WindRiver-OpenSourceLabs/meta-overc
+
 ## meta-virtualization
 
 > This layer provides support for building Xen, KVM, Libvirt, and associated packages necessary for constructing OE-based virtualized solutions.
+
+git://git.yoctoproject.org/meta-virtualization
 
 ## oe-core
 

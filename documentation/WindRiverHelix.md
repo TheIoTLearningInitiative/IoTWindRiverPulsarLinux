@@ -5,13 +5,15 @@ Wind River Helix
 
 
 - Devices & Sensors
-- Gateways
+- Gatewa[]y
 - Networks
 - Clouds
 
 
 - [Wind River Helix Homepage](http://www.windriver.com/products/helix/)
 - [Wind River Helix Infographic](http://www.windriver.com/products/helix/documents/Wind-River-Helix_infographic.pdf)
+- [Wind River Unveils Cloud Suite and Free Cloud-Connected Operating Systems to Accelerate IoT - See more at: http://www.windriver.com/news/press/pr.html?ID=13925#sthash.pWNCVXiW.dpuf](http://www.windriver.com/news/press/pr.html?ID=13925)
+
 
 ## Wind River Helix Device Cloud
 

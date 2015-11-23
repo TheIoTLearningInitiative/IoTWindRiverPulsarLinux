@@ -38,3 +38,11 @@ Wind River Helix
 
 - [Wind River Helix App Cloud](http://www.windriver.com/products/helix/app-cloud/)
 - [Wind River Helix App Cloud Overview](http://www.windriver.com/products/product-overviews/wr-app-cloud_overview.pdf)
+
+
+## Wind River Helix Lab Cloud
+
+> Wind River® Helix™ Lab Cloud is an instantly accessible software lab that improves team collaboration and makes Internet of Things (IoT) development easier for everyone.
+
+
+http://www.windriver.com/products/helix/lab-cloud/

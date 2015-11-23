@@ -168,6 +168,8 @@ https://github.com/WindRiver-OpenSourceLabs/wrll-hac
 
 ## xilinx-zynq
 
-> 
+> Xilinx ZYNQ Board Support Package
+
+https://github.com/WindRiver-OpenSourceLabs/xilinx-zynq
 
 ## overc-installer

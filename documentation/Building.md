@@ -133,4 +133,3 @@ Quick start instructions to build Wind River Pulsar Linux for Intel Minnowboard 
 - layers/wrll-hac
 - xilinx-zynq
 - overc-installer
-- 

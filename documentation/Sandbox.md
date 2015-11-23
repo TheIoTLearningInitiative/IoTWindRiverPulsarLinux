@@ -30,6 +30,20 @@ SandBox
     Last login: Mon Nov 23 16:03:51 EST 2015 on ttyS0
     root@cube-03-11-15-domE:~# 
     
+    root@cube-03-11-15-domE:~# ifconfig
+    br0       Link encap:Ethernet  HWaddr ca:ae:9e:a4:4e:5b  
+              inet addr:10.0.2.17  Bcast:10.0.2.255  Mask:255.255.255.0
+              inet6 addr: fe80::c8ae:9eff:fea4:4e5b/64 Scope:Link
+    
+    eth0      Link encap:Ethernet  HWaddr 4a:17:2d:81:3d:7c  
+              inet6 addr: fe80::4817:2dff:fe81:3d7c/64 Scope:Link
+              UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+    
+    lo        Link encap:Local Loopback  
+              inet addr:127.0.0.1  Mask:255.0.0.0
+              inet6 addr: ::1/128 Scope:Host
+    
 
 ## To Review
 

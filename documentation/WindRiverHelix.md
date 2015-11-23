@@ -9,7 +9,7 @@ Wind River Helix
 - Networks
 - Clouds
 
-### Links
+Links
 
 - [Wind River Helix Homepage](http://www.windriver.com/products/helix/)
 - [Wind River Helix Infographic](http://www.windriver.com/products/helix/documents/Wind-River-Helix_infographic.pdf)

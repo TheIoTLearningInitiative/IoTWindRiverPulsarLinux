@@ -96,7 +96,21 @@ DISTRO = "nodistro") and contains only emulated machine support.
 ## wr-base
 
 > This layer provides many of the base components for Wind River Linux.  It
-is required by most other layers provided by Wind River.
+is required by most other layers provided by Wind River
+
+- recipes-base
+- recipes-benchmark
+- recipes-bsp
+- recipes-connectivity
+- recipes-core
+- recipes-devtools
+- recipes-extended
+- recipes-graphics
+- recipes-installer-support
+- recipes-kernel
+- recipes-lsbtesting/qt3
+- recipes-networking
+- recipes-support
 
 ## wr-fixes
 ## wr-kernel

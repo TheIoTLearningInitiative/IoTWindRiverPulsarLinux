@@ -37,7 +37,7 @@ Getting Started](https://knowledge.windriver.com/@api/deki/files/242263/wr_pulsa
 
 > The GNU C Library (glibc) Any Unix-like operating system needs a C library: the library which defines the ``system calls'' and other basic facilities such as open, malloc, printf, exit... The GNU C Library is used as the C library in the GNU system and in GNU/Linux systems, as well as many other systems that use Linux as the kernel. 
 
-
+- [The GNU C Library (glibc)](https://www.gnu.org/software/libc/)
 
 ### Container Management
 

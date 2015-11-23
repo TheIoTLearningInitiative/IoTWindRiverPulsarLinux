@@ -113,6 +113,10 @@ is required by most other layers provided by Wind River
 - recipes-support
 
 ## wr-fixes
+
+> This layer provides the fixes to other components of the system
+(oe-core, meta-yocto, meta-selinux, etc....)
+
 ## wr-kernel
 ## wr-tools-debug
 ## wrlabs-integration

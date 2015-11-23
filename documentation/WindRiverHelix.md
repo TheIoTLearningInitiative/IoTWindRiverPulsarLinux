@@ -44,6 +44,9 @@ Links
 - [Wind River Helix App Cloud](http://www.windriver.com/products/helix/app-cloud/)
 - [Wind River Helix App Cloud Overview](http://www.windriver.com/products/product-overviews/wr-app-cloud_overview.pdf)
 
+### Getting Started
+
+https://app.cloud.windriver.com/#/home
 
 ## Wind River Helix Lab Cloud
 

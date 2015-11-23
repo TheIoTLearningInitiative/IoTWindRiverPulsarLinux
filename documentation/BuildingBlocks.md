@@ -86,6 +86,9 @@ DISTRO = "nodistro") and contains only emulated machine support.
 > OpenEmbedded layer for the Go programming language
 
 ## qemuarm
+
+> QEMU-ARM Board Support Package
+
 ## qemuarm9
 ## wr-base
 ## wr-fixes

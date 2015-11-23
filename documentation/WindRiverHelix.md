@@ -18,6 +18,23 @@ Links
 
 ## Wind River Helix Cloud
 
+### Wind River Helix App Cloud
+
+> Wind River® Helix™ App Cloud speeds creation of Internet of Things (IoT) software for system manufacturers, integrators, and operators. Simulating a development environment, it allows you to use the Pulsar SDK to write applications even without a hardware platform.
+
+> Wind River® Helix™ App Cloud is a new kind of software development platform that removes the traditional complexities of building applications for embedded devices and systems.
+
+> To help start your embedded projects, App Cloud comes with Wind River Rocket™, our free real-time operating system (RTOS) for small, embedded devices.
+
+- [Wind River Helix App Cloud](http://www.windriver.com/products/helix/app-cloud/)
+- [Wind River Helix App Cloud Overview](http://www.windriver.com/products/product-overviews/wr-app-cloud_overview.pdf)
+
+#### Getting Started
+
+>  Welcome to Wind River Helix App Cloud. Now you can create, modify, and debug applications running on real hardware—in the cloud. Wind River® Helix™ App Cloud is the central place for managing your devices and projects.
+
+[Wind River Helix App Cloud](https://app.cloud.windriver.com/#/home)
+
 ### Wind River Helix Device Cloud
 
 > Unlock Machine Data to Manage Your Embedded Devices
@@ -42,20 +59,3 @@ Links
 - [Wind River Helix Lab Cloud Homepage](http://www.windriver.com/products/helix/lab-cloud/)
 - [Wind River Helix Lab Cloud Overview](http://www.windriver.com/products/product-overviews/wr-lab-cloud_overview.pdf)
 - [Wind River Helix Lab Cloud Overview One Page](http://www.windriver.com/products/product-overviews/wr-lab-cloud-onepage-overview.pdf)
-
-## Wind River Helix App Cloud
-
-> Wind River® Helix™ App Cloud speeds creation of Internet of Things (IoT) software for system manufacturers, integrators, and operators. Simulating a development environment, it allows you to use the Pulsar SDK to write applications even without a hardware platform.
-
-> Wind River® Helix™ App Cloud is a new kind of software development platform that removes the traditional complexities of building applications for embedded devices and systems.
-
-> To help start your embedded projects, App Cloud comes with Wind River Rocket™, our free real-time operating system (RTOS) for small, embedded devices.
-
-- [Wind River Helix App Cloud](http://www.windriver.com/products/helix/app-cloud/)
-- [Wind River Helix App Cloud Overview](http://www.windriver.com/products/product-overviews/wr-app-cloud_overview.pdf)
-
-### Getting Started
-
->  Welcome to Wind River Helix App Cloud. Now you can create, modify, and debug applications running on real hardware—in the cloud. Wind River® Helix™ App Cloud is the central place for managing your devices and projects.
-
-[Wind River Helix App Cloud](https://app.cloud.windriver.com/#/home)

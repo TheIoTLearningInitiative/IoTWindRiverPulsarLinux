@@ -10,7 +10,6 @@ SandBox
 1. Download
 2. Load
 3. Boot
-4. 
 
 user@host:~$ sudo apt-get install virtualbox
 user@host:~$ VBoxManage convertfromraw --format VDI pulsar.img pulsar.vdi

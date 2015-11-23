@@ -120,6 +120,7 @@ bitbake
 
 - layers/fslls10xx
 
+> Freescale TWR-LS1021A Boards
 
 - meta-intel
 - meta-openembedded

@@ -90,6 +90,8 @@ https://github.com/WindRiver-OpenSourceLabs/oe-core
 
 > OpenEmbedded layer for the Go programming language
 
+https://github.com/WindRiver-OpenSourceLabs/oe-meta-go
+
 ## qemuarm
 
 > QEMU-ARM Board Support Package

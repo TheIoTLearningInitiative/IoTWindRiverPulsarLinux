@@ -34,6 +34,15 @@ Intel Minnowboard MAX
     Executing: sudo apt-get -y install expect kpartx btrfs-tools help2man texi2html 
     
     user@host:~/wr-core$ . init-intel-x86-env
+        You can now run 'bitbake <target>'
+
+    Common targets are:
+    
+        cube-essential 
+        cube-dom0 
+        cube-domE
+        cube-server
+    
     user@host:~/wr-core$ bitbake cube-domE cube-dom0 cube-essential
 
     user@host:~$ sudo ../overc-installer/sbin/cubeit --force --config `pwd`/../install_templates/intel-x86/config-live.sh --artifacts `pwd`/tmp/deploy/images/intel-corei7-64 pulsar7-minnowboardmax.img

@@ -27,6 +27,12 @@ Intel Minnowboard MAX
         Submodule 'overc-installer' (https://github.com/WindRiver-OpenSourceLabs/overc-installer) registered for path 'overc-installer'
     user@host:~$ cd wr-core
     user@host:~/wr-core$ ./scripts/host_package_install.sh --install --yes
+    grep: /etc/lsb-release: No such file or directory
+    You need to install additional software on your host system
+        in order to use the development environment.
+    
+    Executing: sudo apt-get -y install expect kpartx btrfs-tools help2man texi2html 
+    
     user@host:~/wr-core$ . init-intel-x86-env
     user@host:~/wr-core$ bitbake cube-domE cube-dom0 cube-essential
 

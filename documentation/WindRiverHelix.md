@@ -15,8 +15,12 @@ Links
 - [Wind River Helix Infographic](http://www.windriver.com/products/helix/documents/Wind-River-Helix_infographic.pdf)
 - [Wind River Unveils Cloud Suite and Free Cloud-Connected Operating Systems to Accelerate IoT](http://www.windriver.com/news/press/pr.html?ID=13925)
 
-
 ## Wind River Helix Cloud
+
+> The Wind River® Helix™ Cloud family of products helps organizations address the key challenges of designing, building, managing, and securing data, devices, and systems for the Internet of Things (IoT).
+
+- [Wind River Helix Cloud Homepage](http://www.windriver.com/products/helix/helix-cloud/)
+- [Wind River Helix Cloud Overview](http://www.windriver.com/products/product-overviews/wr-helix-cloud_overview.pdf)
 
 ### Wind River Helix App Cloud
 
@@ -44,13 +48,6 @@ Links
 - [Wind River® Helix™ Device Cloud Homepage](http://www.windriver.com/products/helix/device-cloud/)
 - [Wind River® Helix™ Device Cloud Overview](http://www.windriver.com/products/product-overviews/wr-device-cloud_overview.pdf)
 - [Wind River® Helix™ Device Cloud PDF](http://www.windriver.com/products/product-overviews/PO-Wind-River-Helix-Device-Cloud.pdf)
-
-## Wind River Helix Cloud
-
-> The Wind River® Helix™ Cloud family of products helps organizations address the key challenges of designing, building, managing, and securing data, devices, and systems for the Internet of Things (IoT).
-
-- [Wind River Helix Cloud Homepage](http://www.windriver.com/products/helix/helix-cloud/)
-- [Wind River Helix Cloud Overview](http://www.windriver.com/products/product-overviews/wr-helix-cloud_overview.pdf)
 
 ## Wind River Helix Lab Cloud
 

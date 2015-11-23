@@ -3,5 +3,5 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * [Wind River Documentation](documentation/WindRiverDocumentation.md)
-* Building
+* [Building](documentation/Building.md)
 

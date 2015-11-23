@@ -126,7 +126,7 @@ This layer:
 
 ## wrlinux
 
-
+> This layer provides the Wind River Linux distribution definitions, distribution-specific integration and bug fixes, and other wrlinux components.
 
 ## layers/wrll-hac
 ## xilinx-zynq

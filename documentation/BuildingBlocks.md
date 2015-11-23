@@ -83,7 +83,7 @@ DISTRO = "nodistro") and contains only emulated machine support.
 
 ## oe-meta-go
 
-> OpenEmbedded layer for the Go programming language 
+> OpenEmbedded layer for the Go programming language
 
 ## qemuarm
 ## qemuarm9

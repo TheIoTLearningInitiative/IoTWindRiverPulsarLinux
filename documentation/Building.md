@@ -131,4 +131,6 @@ Quick start instructions to build Wind River Pulsar Linux for Intel Minnowboard 
 - wrlabs-integration
 - wrlinux
 - layers/wrll-hac
-- xilinx-z
+- xilinx-zynq
+- overc-installer
+- 

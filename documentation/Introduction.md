@@ -7,6 +7,9 @@ Introduction
 - [Wind River Pulsar Linux Product Overview](http://www.windriver.com/products/product-overviews/Pulsar-Linux-Product-Overview.pdf)
 - [Wind River Support Network Knowledge Library](https://knowledge.windriver.com/en-us/000_Products/000/060)
 - [Wind River Pulsar Linux Github](https://github.com/WindRiver-OpenSourceLabs/wr-core)
+
+## Extra Documentation
+
 - [Binary Option](http://linuxgizmos.com/wind-river-linux-taps-yocto-1-7-and-adds-binary-option/)
 
 1. Download

@@ -96,6 +96,8 @@ https://github.com/WindRiver-OpenSourceLabs/oe-meta-go
 
 > QEMU-ARM Board Support Package
 
+https://github.com/WindRiver-OpenSourceLabs/qemuarm
+
 ## qemuarm9
 
 >  QEMU-arma9 Board Support Package

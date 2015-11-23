@@ -121,12 +121,10 @@ is required by most other layers provided by Wind River
 
 This layer:
 
-  - adds core kernel support on top of linux-yocto for boards supported by
-    Wind River
-  - contains packages that are coupled to the kernel version
-  - contains task sets and configurations related to the kernel
-  - includes the nested 'kernel-dev' layer for local clones and externalsrc
-    development
+- adds core kernel support on top of linux-yocto for boards supported by Wind River
+- contains packages that are coupled to the kernel version
+- contains task sets and configurations related to the kernel
+- includes the nested 'kernel-dev' layer for local clones and externalsrc development
 
 ## wr-tools-debug
 ## wrlabs-integration

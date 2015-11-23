@@ -118,15 +118,15 @@ bitbake
 
 > BitBake is co-maintained by the Yocto Project and the OpenEmbedded project. BitBake recipes specify how a particular package is built. It includes all the package dependencies, source code locations, configuration, compilation, build, install and remove instructions. wikipedia
 
-- layers/fslls10xx
+layers/fslls10xx
 
 > Freescale TWR-LS1021A Boards
 
-- meta-intel
+meta-intel
 
 > Layer containing Intel hardware support metadata
 
-- meta-openembedded
+meta-openembedded
 
 > 
 

@@ -34,4 +34,4 @@ Wind River Helix
 
 > To help start your embedded projects, App Cloud comes with Wind River Rocket™, our free real-time operating system (RTOS) for small, embedded devices.
 
-- [Wind River Helix App Cloud](http://www.windriver.com/products/helix/app-cloud/_)
+- [Wind River Helix App Cloud](http://www.windriver.com/products/helix/app-cloud/)

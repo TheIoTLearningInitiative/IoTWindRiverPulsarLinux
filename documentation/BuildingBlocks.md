@@ -84,6 +84,8 @@ git://git.yoctoproject.org/meta-virtualization
 - recipes-sato
 - recipes-support
 
+https://github.com/WindRiver-OpenSourceLabs/oe-core
+
 ## oe-meta-go
 
 > OpenEmbedded layer for the Go programming language

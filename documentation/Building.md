@@ -121,7 +121,6 @@ bitbake
 - layers/fslls10xx
 
 
-
 - meta-intel
 - meta-openembedded
 - meta-overc

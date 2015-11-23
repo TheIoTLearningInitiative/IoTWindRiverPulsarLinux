@@ -122,6 +122,12 @@ layers/fslls10xx
 
 > Freescale TWR-LS1021A Boards
 
+- bootloader
+- conf 	
+- recipes-daemons/ptpd
+- recipes-graphics/xorg-xserver
+- recipes-kernel/linux
+
 meta-intel
 
 > Layer containing Intel hardware support metadata

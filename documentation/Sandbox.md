@@ -10,6 +10,11 @@ SandBox
 1. Download
 2. Load
 3. Boot
+4. 
+
+1. Download
+2. Unzip
+3. 
 
 user@host:~$ sudo apt-get install virtualbox qemu
 user@host:~$ VBoxManage convertfromraw --format VDI pulsar.img pulsar.vdi

@@ -140,6 +140,8 @@ This layer:
 - contains task sets and configurations related to the kernel
 - includes the nested 'kernel-dev' layer for local clones and externalsrc development
 
+https://github.com/WindRiver-OpenSourceLabs/wr-kernel
+
 ## wr-tools-debug
 
 > This layer provides target agents to support command line and Workbench debugging.  The tools provided include tcf-agent, agent-proxy and wrproxy.

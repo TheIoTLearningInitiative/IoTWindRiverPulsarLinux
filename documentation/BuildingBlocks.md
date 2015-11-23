@@ -158,6 +158,8 @@ https://github.com/WindRiver-OpenSourceLabs/wrlabs-integration
 
 > This layer provides the Wind River Linux distribution definitions, distribution-specific integration and bug fixes, and other wrlinux components.
 
+https://github.com/WindRiver-OpenSourceLabs/wrlinux
+
 ## layers/wrll-hac
 ## xilinx-zynq
 ## overc-installer

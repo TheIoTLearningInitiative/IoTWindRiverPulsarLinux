@@ -13,3 +13,5 @@ SandBox
 
 user@host:~$ sudo apt-get install virtualbox qemu
 user@host:~$ VBoxManage convertfromraw --format VDI pulsar.img pulsar.vdi
+user@host:~$ qemu-system-x86_64 pulsar.img
+user@host:~$ qemu-system-x86_64 -nographic pulsar.img

@@ -35,6 +35,8 @@ Getting Started](https://knowledge.windriver.com/@api/deki/files/242263/wr_pulsa
 
 > A real-time operating system (RTOS) is an operating system (OS) intended to serve real-time application process data as it comes in, typically without buffering delays. Processing time requirements (including any OS delay) are measured in tenths of seconds or shorter. Wikipedia
 
+> The GNU C Library (glibc) Any Unix-like operating system needs a C library: the library which defines the ``system calls'' and other basic facilities such as open, malloc, printf, exit... The GNU C Library is used as the C library in the GNU system and in GNU/Linux systems, as well as many other systems that use Linux as the kernel. 
+
 ### Container Management
 
 ### User Management

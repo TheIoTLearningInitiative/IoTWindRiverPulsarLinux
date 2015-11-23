@@ -174,4 +174,4 @@ https://github.com/WindRiver-OpenSourceLabs/xilinx-zynq
 
 ## overc-installer
 
-
+https://github.com/WindRiver-OpenSourceLabs/overc-installer

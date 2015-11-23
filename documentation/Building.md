@@ -119,6 +119,9 @@ bitbake
 > BitBake is co-maintained by the Yocto Project and the OpenEmbedded project. BitBake recipes specify how a particular package is built. It includes all the package dependencies, source code locations, configuration, compilation, build, install and remove instructions. wikipedia
 
 - layers/fslls10xx
+
+
+
 - meta-intel
 - meta-openembedded
 - meta-overc

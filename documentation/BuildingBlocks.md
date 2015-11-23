@@ -161,5 +161,10 @@ https://github.com/WindRiver-OpenSourceLabs/wrlabs-integration
 https://github.com/WindRiver-OpenSourceLabs/wrlinux
 
 ## layers/wrll-hac
+
+> This is a layer to create a Linux SDK for Wind River Helix App Cloud. This includes necessary kernel components and files in the target file system.
+
+https://github.com/WindRiver-OpenSourceLabs/wrll-hac
+
 ## xilinx-zynq
 ## overc-installer

@@ -122,10 +122,14 @@ https://github.com/WindRiver-OpenSourceLabs/qemuarma9
 - recipes-networking
 - recipes-support
 
+https://github.com/WindRiver-OpenSourceLabs/wr-base
+
 ## wr-fixes
 
 > This layer provides the fixes to other components of the system
 (oe-core, meta-yocto, meta-selinux, etc....)
+
+https://github.com/WindRiver-OpenSourceLabs/wr-fixes
 
 ## wr-kernel
 

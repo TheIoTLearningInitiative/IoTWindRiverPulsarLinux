@@ -21,6 +21,7 @@ Wind River Helix
 
 - [Wind River® Helix™ Device Cloud Homepage](http://www.windriver.com/products/helix/device-cloud/)
 - [Wind River® Helix™ Device Cloud Overview](http://www.windriver.com/products/product-overviews/wr-device-cloud_overview.pdf)
+- [Wind River® Helix™ Device Cloud PDF](http://www.windriver.com/products/product-overviews/PO-Wind-River-Helix-Device-Cloud.pdf)
 
 ## Wind River Helix Cloud
 

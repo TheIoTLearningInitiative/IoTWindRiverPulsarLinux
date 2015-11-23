@@ -128,7 +128,7 @@ meta-intel
 
 meta-openembedded
 
-> 
+> Collection of OpenEmbedded layers
 
 - meta-overc
 - meta-virtualization

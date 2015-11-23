@@ -18,7 +18,7 @@ Links
 
 ## Wind River Helix Cloud
 
-## Wind River Helix Device Cloud
+### Wind River Helix Device Cloud
 
 > Unlock Machine Data to Manage Your Embedded Devices
 

@@ -128,9 +128,7 @@ This layer:
 
 ## wr-tools-debug
 
-> This layer provides target agents to support command line and Workbench 
-debugging.  The tools provided include tcf-agent, agent-proxy and
-wrproxy.
+> This layer provides target agents to support command line and Workbench debugging.  The tools provided include tcf-agent, agent-proxy and wrproxy.
 
 ## wrlabs-integration
 ## wrlinux

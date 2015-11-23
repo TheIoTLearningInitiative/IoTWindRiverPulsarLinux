@@ -49,7 +49,7 @@ Intel Minnowboard MAX
     login: root
     password: incendia
 
-    kvm -drive file=pulsar7-minnowboardmax.img,if=virtio -m 2000 -nographic -vnc :3 -serial mon:stdio -vga vmware
+    user@host:~$ kvm -drive file=pulsar7-minnowboardmax.img,if=virtio -m 2000 -nographic -vnc :3 -serial mon:stdio -vga vmware
 
     # Note: The terminal is your serial port, and you can access the
     #       grapics console by starting: vncviewer $YOUR_SERVER_IP:3

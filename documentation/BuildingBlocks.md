@@ -152,6 +152,8 @@ https://github.com/WindRiver-OpenSourceLabs/wr-tools-debug
 
 > This layer provides fixes to yocto project layers to allow unmodifed Wind River layers to work in the absence of the full Wind River toolchain.
 
+https://github.com/WindRiver-OpenSourceLabs/wrlabs-integration
+
 ## wrlinux
 
 > This layer provides the Wind River Linux distribution definitions, distribution-specific integration and bug fixes, and other wrlinux components.

@@ -12,5 +12,5 @@ SandBox
 3. Boot
 4. 
 
-# sudo apt-get install virtualbox
-# VBoxManage convertfromraw --format VDI pulsar.img pulsar.vdi
+user@host:~$ sudo apt-get install virtualbox
+user@host:~$ VBoxManage convertfromraw --format VDI pulsar.img pulsar.vdi

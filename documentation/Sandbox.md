@@ -15,10 +15,16 @@ SandBox
 2. Unzip
 3. Launch
 
-user@host:~$ sudo apt-get install virtualbox qemu
-user@host:~$ VBoxManage convertfromraw --format VDI pulsar.img pulsar.vdi
-user@host:~$ qemu-system-x86_64 pulsar.img
-user@host:~$ qemu-system-x86_64 -nographic pulsar.img
+    user@host:~$ sudo apt-get install virtualbox qemu
+    user@host:~$ VBoxManage convertfromraw --format VDI pulsar.img pulsar.vdi
+    user@host:~$ qemu-system-x86_64 pulsar.img
+    user@host:~$ qemu-system-x86_64 -nographic pulsar.img
+    
+    
+    Pulsar Linux 7.0.0.10 cube-03-11-15-domE ttyS0
+    
+    cube-03-11-15-domE login: 
+
 
 Helix Application Cloud Agent
 https://github.com/WindRiver-OpenSourceLabs/tcf-c-core

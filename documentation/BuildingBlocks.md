@@ -17,6 +17,8 @@ https://github.com/WindRiver-OpenSourceLabs/bitbake
 - recipes-graphics/xorg-xserver
 - recipes-kernel/linux
 
+https://github.com/WindRiver-OpenSourceLabs/fsl-ls10xx
+
 ## meta-intel
 
 > Layer containing Intel hardware support metadata

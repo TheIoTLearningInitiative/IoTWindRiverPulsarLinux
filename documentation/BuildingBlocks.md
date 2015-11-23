@@ -66,6 +66,21 @@ oe-core
 of OpenEmbedded. It is distro-less (can build a functional image with
 DISTRO = "nodistro") and contains only emulated machine support.
 
+- recipes-bsp
+- recipes-connectivity
+- recipes-core
+- recipes-devtools
+- recipes-extended
+- recipes-gnome
+- recipes-graphics
+- recipes-kernel
+- recipes-lsb4
+- recipes-multimedia
+- recipes-qt
+- recipes-rt
+- recipes-sato
+- recipes-support
+
 oe-meta-go
 qemuarm
 qemuarm9

@@ -8,12 +8,6 @@ Introduction
 - [Wind River Support Network Knowledge Library](https://knowledge.windriver.com/en-us/000_Products/000/060)
 - [Wind River Pulsar Linux Github](https://github.com/WindRiver-OpenSourceLabs/wr-core)
 
-## Extra Documentation
 
-- [Binary Option](http://linuxgizmos.com/wind-river-linux-taps-yocto-1-7-and-adds-binary-option/)
-
-1. Download
-2. Load
-3. Boot
 
 

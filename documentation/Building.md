@@ -127,6 +127,9 @@ bitbake
 > Layer containing Intel hardware support metadata
 
 - meta-openembedded
+
+> 
+
 - meta-overc
 - meta-virtualization
 - oe-core

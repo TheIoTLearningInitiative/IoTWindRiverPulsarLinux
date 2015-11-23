@@ -39,6 +39,14 @@ Links
 
 [Wind River Helix App Cloud](https://app.cloud.windriver.com/#/home)
 
+## Wind River Helix Lab Cloud
+
+> Wind River® Helix™ Lab Cloud is an instantly accessible software lab that improves team collaboration and makes Internet of Things (IoT) development easier for everyone. It simulates hardware in a cloud platform. Using Lab Cloud you can rapidly create and share device and system software, both within your organization and with other teams.
+
+- [Wind River Helix Lab Cloud Homepage](http://www.windriver.com/products/helix/lab-cloud/)
+- [Wind River Helix Lab Cloud Overview](http://www.windriver.com/products/product-overviews/wr-lab-cloud_overview.pdf)
+- [Wind River Helix Lab Cloud Overview One Page](http://www.windriver.com/products/product-overviews/wr-lab-cloud-onepage-overview.pdf)
+
 ### Wind River Helix Device Cloud
 
 > Unlock Machine Data to Manage Your Embedded Devices
@@ -48,11 +56,3 @@ Links
 - [Wind River® Helix™ Device Cloud Homepage](http://www.windriver.com/products/helix/device-cloud/)
 - [Wind River® Helix™ Device Cloud Overview](http://www.windriver.com/products/product-overviews/wr-device-cloud_overview.pdf)
 - [Wind River® Helix™ Device Cloud PDF](http://www.windriver.com/products/product-overviews/PO-Wind-River-Helix-Device-Cloud.pdf)
-
-## Wind River Helix Lab Cloud
-
-> Wind River® Helix™ Lab Cloud is an instantly accessible software lab that improves team collaboration and makes Internet of Things (IoT) development easier for everyone. It simulates hardware in a cloud platform. Using Lab Cloud you can rapidly create and share device and system software, both within your organization and with other teams.
-
-- [Wind River Helix Lab Cloud Homepage](http://www.windriver.com/products/helix/lab-cloud/)
-- [Wind River Helix Lab Cloud Overview](http://www.windriver.com/products/product-overviews/wr-lab-cloud_overview.pdf)
-- [Wind River Helix Lab Cloud Overview One Page](http://www.windriver.com/products/product-overviews/wr-lab-cloud-onepage-overview.pdf)

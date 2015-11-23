@@ -24,5 +24,5 @@ Wind River Helix
 
 > The Wind River® Helix™ Cloud family of products helps organizations address the key challenges of designing, building, managing, and securing data, devices, and systems for the Internet of Things (IoT).
 
-- [Wind River Helix Cloud](http://www.windriver.com/products/helix/helix-cloud/)
-
+- [Wind River Helix Cloud Homepage](http://www.windriver.com/products/helix/helix-cloud/)
+- [Wind River Helix Cloud Overview](http://www.windriver.com/products/product-overviews/wr-helix-cloud_overview.pdf)

@@ -4,5 +4,5 @@
 * [Introduction](documentation/Introduction.md)
 * [Wind River Documentation](documentation/WindRiverDocumentation.md)
 * [Building](documentation/Building.md)
-* Building Blocks
+* [Building Blocks](documentation/BuildingBlocks.md)
 

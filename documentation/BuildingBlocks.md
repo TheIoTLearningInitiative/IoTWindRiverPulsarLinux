@@ -82,6 +82,9 @@ DISTRO = "nodistro") and contains only emulated machine support.
 - recipes-support
 
 ## oe-meta-go
+
+> OpenEmbedded layer for the Go programming language 
+
 ## qemuarm
 ## qemuarm9
 ## wr-base

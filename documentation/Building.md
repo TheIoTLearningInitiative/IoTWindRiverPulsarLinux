@@ -169,6 +169,10 @@ tools and/or man pages and things like tab completion that make a system
 > Both meta-overc, and meta-overc/meta-cube should be added to your bblayers file.
 
 meta-virtualization
+
+> This layer provides support for building Xen, KVM, Libvirt, and associated
+packages necessary for constructing OE-based virtualized solutions.
+
 oe-core
 oe-meta-go
 qemuarm

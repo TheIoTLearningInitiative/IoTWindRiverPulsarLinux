@@ -19,3 +19,9 @@ Wind River Helix
 > Wind River® Helix™ Device Cloud is a ready-made, cloud-based platform for the Internet of Things (IoT) that greatly reduces the complexities of building and rolling out large-scale embedded device networks.
 
 - [Wind River® Helix™ Device Cloud Homepage](http://www.windriver.com/products/helix/device-cloud/)
+
+## Wind River Helix Cloud
+
+> The Wind River® Helix™ Cloud family of products helps organizations address the key challenges of designing, building, managing, and securing data, devices, and systems for the Internet of Things (IoT).
+
+- [Wind River Helix Cloud](http://www.windriver.com/products/helix/helix-cloud/)

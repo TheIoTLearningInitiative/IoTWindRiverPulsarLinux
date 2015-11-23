@@ -151,7 +151,6 @@ meta-openembedded
 - meta-webserver
 - meta-xfce
 
-
 meta-overc
 meta-virtualization
 oe-core

@@ -16,6 +16,8 @@ Links
 - [Wind River Unveils Cloud Suite and Free Cloud-Connected Operating Systems to Accelerate IoT](http://www.windriver.com/news/press/pr.html?ID=13925)
 
 
+## Wind River Helix Cloud
+
 ## Wind River Helix Device Cloud
 
 > Unlock Machine Data to Manage Your Embedded Devices

@@ -102,6 +102,8 @@ https://github.com/WindRiver-OpenSourceLabs/qemuarm
 
 >  QEMU-arma9 Board Support Package
 
+https://github.com/WindRiver-OpenSourceLabs/qemuarma9
+
 ## wr-base
 
 > This layer provides many of the base components for Wind River Linux.  It is required by most other layers provided by Wind River

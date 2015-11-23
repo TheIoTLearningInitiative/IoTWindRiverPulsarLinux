@@ -3,6 +3,7 @@ Wind River Documentation
 
 ## Wind River Key Documentation
 
+- [Wind River IoT Infographic](http://www.windriver.com/iot/Wind-River-IoT-infographic.pdf)
 - [Wind River Pulsar Linux Homepage](http://www.windriver.com/products/operating-systems/pulsar/)
 - [Wind River Pulsar Linux Product Overview](http://www.windriver.com/products/product-overviews/Pulsar-Linux-Product-Overview.pdf)
 - [Partnering with Wind River Pulsar Linux](http://www.windriver.com/products/product-overviews/Pulsar-Partner-Solution-Brief.pdf)

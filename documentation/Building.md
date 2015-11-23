@@ -130,6 +130,21 @@ meta-openembedded
 
 > Collection of OpenEmbedded layers
 
+meta-efl
+meta-filesystems
+meta-gnome
+meta-gpe
+meta-initramfs
+meta-multimedia
+meta-networking
+meta-oe
+meta-perl
+meta-python
+meta-ruby
+meta-systemd
+meta-webserver
+meta-xfce
+
 - meta-overc
 - meta-virtualization
 - oe-core

@@ -24,7 +24,12 @@ SandBox
     
     Pulsar Linux 7.0.0.10 cube-03-11-15-domE ttyS0
     
-    cube-03-11-15-domE login: 
+    cube-03-11-15-domE login: root
+    Pulsar Linux 7.0.0.10 cube-03-11-15-domE ttyS0
+    Password: incendia
+    Last login: Mon Nov 23 16:03:51 EST 2015 on ttyS0
+    root@cube-03-11-15-domE:~# 
+    
 
 ## To Review
 

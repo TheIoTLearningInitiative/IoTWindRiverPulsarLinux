@@ -121,6 +121,9 @@ This layer:
 > This layer provides target agents to support command line and Workbench debugging.  The tools provided include tcf-agent, agent-proxy and wrproxy.
 
 ## wrlabs-integration
+
+> This layer provides fixes to yocto project layers to allow unmodifed Wind River layers to work in the absence of the full Wind River toolchain.
+
 ## wrlinux
 ## layers/wrll-hac
 ## xilinx-zynq

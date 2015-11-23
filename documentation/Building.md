@@ -114,3 +114,21 @@ Quick start instructions to build Wind River Pulsar Linux for Intel Minnowboard 
 
 ## Building Blocks
 
+- bitbake
+- layers/fslls10xx
+- meta-intel
+- meta-openembedded
+- meta-overc
+- meta-virtualization
+- oe-core
+- oe-meta-go
+- qemuarm
+- qemuarm9
+- wr-base
+- wr-fixes
+- wr-kernel
+- wr-tools-debug
+- wrlabs-integration
+- wrlinux
+- layers/wrll-hac
+- xilinx-z

@@ -28,6 +28,8 @@ https://github.com/WindRiver-OpenSourceLabs/fsl-ls10xx
 - meta-mohonpeak
 - meta-valleyisland
 
+git://git.yoctoproject.org/meta-intel
+
 ## meta-openembedded
 
 > Collection of OpenEmbedded layers

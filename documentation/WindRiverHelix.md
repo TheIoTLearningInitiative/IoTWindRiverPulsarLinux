@@ -5,7 +5,7 @@ Wind River Helix
 
 
 - Devices & Sensors
-- Gatewa[]y
+- Gateway
 - Networks
 - Clouds
 

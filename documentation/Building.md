@@ -132,10 +132,10 @@ meta-intel
 
 > Layer containing Intel hardware support metadata
 
-meta-crystalforest
-meta-haswell-wc
-meta-mohonpeak
-meta-valleyisland
+- meta-crystalforest
+- meta-haswell-wc
+- meta-mohonpeak
+- meta-valleyisland
 
 meta-openembedded
 

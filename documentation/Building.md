@@ -1,9 +1,7 @@
 Building
 ==
 
-Quick start instructions to build Wind River Pulsar Linux
-
-Intel Minnowboard MAX
+Quick start instructions to build Wind River Pulsar Linux for Intel Minnowboard MAX
 
     user@host:~$ git clone --recurse-submodules https://github.com/WindRiver-OpenSourceLabs/wr-core
          Submodule 'bitbake' (https://github.com/WindRiver-OpenSourceLabs/bitbake) registered for path 'layers/bitbake'

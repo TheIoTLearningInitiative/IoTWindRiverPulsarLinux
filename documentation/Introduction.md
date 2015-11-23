@@ -15,7 +15,7 @@ Quick start instructions to build Wind River Pulsar Linux
 
 Intel Minnowboard MAX
 
-    git clone --recurse-submodules https://github.com/WindRiver-OpenSourceLabs/wr-core
+    user@host:~$ git clone --recurse-submodules https://github.com/WindRiver-OpenSourceLabs/wr-core
         Submodule 'bitbake' (https://github.com/WindRiver-OpenSourceLabs/bitbake) registered for path 'layers/bitbake'
         Submodule 'layers/fsl-ls10xx' (https://github.com/WindRiver-OpenSourceLabs/fsl-ls10xx) registered for path 'layers/fsl-ls10xx'
         Submodule 'meta-intel' (git://git.yoctoproject.org/meta-intel) registered for path 'layers/meta-intel'
@@ -35,16 +35,16 @@ Intel Minnowboard MAX
         Submodule 'layers/wrll-hac' (https://github.com/WindRiver-OpenSourceLabs/wrll-hac) registered for path 'layers/wrll-hac'
         Submodule 'xilinx-zynq' (https://github.com/WindRiver-OpenSourceLabs/xilinx-zynq) registered for path 'layers/xilinx-zynq'
         Submodule 'overc-installer' (https://github.com/WindRiver-OpenSourceLabs/overc-installer) registered for path 'overc-installer'
-    cd wr-core
-    ./scripts/host_package_install.sh --install --yes
-    . init-intel-x86-env
-    bitbake cube-domE cube-dom0 cube-essential
+    user@host:~$ cd wr-core
+    user@host:~$ ./scripts/host_package_install.sh --install --yes
+    user@host:~$ . init-intel-x86-env
+    user@host:~$ bitbake cube-domE cube-dom0 cube-essential
 
-    sudo ../overc-installer/sbin/cubeit --force --config `pwd`/../install_templates/intel-x86/config-live.sh --artifacts `pwd`/tmp/deploy/images/intel-corei7-64 pulsar7-minnowboardmax.img
+    user@host:~$ sudo ../overc-installer/sbin/cubeit --force --config `pwd`/../install_templates/intel-x86/config-live.sh --artifacts `pwd`/tmp/deploy/images/intel-corei7-64 pulsar7-minnowboardmax.img
     
-    sudo ../overc-installer/sbin/cubeit --force --config `pwd`/../install_templates/intel-x86/config-live.sh --artifacts `pwd`/tmp/deploy/images/intel-corei7-64 $DEV
-     cd /opt/installer
-     ./sbin/cubeit-install -b images/cube-essential-* $DEV
+    user@host:~$ sudo ../overc-installer/sbin/cubeit --force --config `pwd`/../install_templates/intel-x86/config-live.sh --artifacts `pwd`/tmp/deploy/images/intel-corei7-64 $DEV
+    user@host:~$ cd /opt/installer
+    user@host:~$ ./sbin/cubeit-install -b images/cube-essential-* $DEV
 
     login: root
     password: incendia

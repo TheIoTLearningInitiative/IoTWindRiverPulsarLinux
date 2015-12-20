@@ -3,6 +3,8 @@ Building
 
 Quick start instructions to build Wind River Pulsar Linux for Intel Minnowboard MAX
 
+## Clone Repository
+
     user@host:~$ git clone --recurse-submodules https://github.com/WindRiver-OpenSourceLabs/wr-core
          Submodule 'bitbake' (https://github.com/WindRiver-OpenSourceLabs/bitbake) registered for path 'layers/bitbake'
         Submodule 'layers/fsl-ls10xx' (https://github.com/WindRiver-OpenSourceLabs/fsl-ls10xx) registered for path 'layers/fsl-ls10xx'

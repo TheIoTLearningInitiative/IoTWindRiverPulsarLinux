@@ -26,7 +26,7 @@ Quick start instructions to build Wind River Pulsar Linux for Intel Minnowboard 
         Submodule 'xilinx-zynq' (https://github.com/WindRiver-OpenSourceLabs/xilinx-zynq) registered for path 'layers/xilinx-zynq'
         Submodule 'overc-installer' (https://github.com/WindRiver-OpenSourceLabs/overc-installer) registered for path 'overc-installer'
 
-## Clone Repository
+## Setup
 
     user@host:~$ cd wr-core
     user@host:~/wr-core$ ./scripts/host_package_install.sh --install --yes

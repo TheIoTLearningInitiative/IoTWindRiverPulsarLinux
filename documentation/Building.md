@@ -102,7 +102,7 @@ Quick start instructions to build Wind River Pulsar Linux for Intel Minnowboard 
     0: db-native-6.0.30-r0 do_fetch (pid 14452)
     1: libpcre-native-8.35-r0 do_configure (pid 30379)
 
-## Install
+## Flash
 
     user@host:~$ sudo ../overc-installer/sbin/cubeit --force --config `pwd`/../install_templates/intel-x86/config-live.sh --artifacts `pwd`/tmp/deploy/images/intel-corei7-64 pulsar7-minnowboardmax.img
     

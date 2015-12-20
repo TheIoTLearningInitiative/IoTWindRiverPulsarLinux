@@ -45,7 +45,9 @@ Quick start instructions to build Wind River Pulsar Linux for Intel Minnowboard 
         cube-dom0 
         cube-domE
         cube-server
-    
+
+## Bitbake
+
     user@host:~/wr-core$ bitbake cube-domE cube-dom0 cube-essential
         
     xe1gyq@jessie:~/WindRiver/wr-core/build-intel-x86$ bitbake cube-domE cube-dom0 cube-essential

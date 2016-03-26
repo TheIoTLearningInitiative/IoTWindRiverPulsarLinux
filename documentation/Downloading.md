@@ -3,6 +3,7 @@ Downloading
 
 ## Clone Repository
 
+```sh
     user@host:~$ git clone --recurse-submodules https://github.com/WindRiver-OpenSourceLabs/wr-core
          Submodule 'bitbake' (https://github.com/WindRiver-OpenSourceLabs/bitbake) registered for path 'layers/bitbake'
         Submodule 'layers/fsl-ls10xx' (https://github.com/WindRiver-OpenSourceLabs/fsl-ls10xx) registered for path 'layers/fsl-ls10xx'
@@ -23,3 +24,4 @@ Downloading
         Submodule 'layers/wrll-hac' (https://github.com/WindRiver-OpenSourceLabs/wrll-hac) registered for path 'layers/wrll-hac'
         Submodule 'xilinx-zynq' (https://github.com/WindRiver-OpenSourceLabs/xilinx-zynq) registered for path 'layers/xilinx-zynq'
         Submodule 'overc-installer' (https://github.com/WindRiver-OpenSourceLabs/overc-installer) registered for path 'overc-installer'
+```

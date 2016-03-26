@@ -14,4 +14,6 @@ Supported Platforms
 > > Xilinx Zynq 7000 FPGA – ARM
 > > A programmable SoC development kit that provides an industry-standard, high-performance motherboard.
 
-
+> MinnowBoard MAX
+> > Intel Atom – x86
+> > A compact, affordable, and powerful development board for professionals and makers.

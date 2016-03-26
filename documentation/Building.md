@@ -80,19 +80,3 @@ Quick start instructions to build Wind River Pulsar Linux for Intel Minnowboard 
     0: db-native-6.0.30-r0 do_fetch (pid 14452)
     1: libpcre-native-8.35-r0 do_configure (pid 30379)
 
-## Flash
-
-    user@host:~$ sudo ../overc-installer/sbin/cubeit --force --config `pwd`/../install_templates/intel-x86/config-live.sh --artifacts `pwd`/tmp/deploy/images/intel-corei7-64 pulsar7-minnowboardmax.img
-    
-    user@host:~$ sudo ../overc-installer/sbin/cubeit --force --config `pwd`/../install_templates/intel-x86/config-live.sh --artifacts `pwd`/tmp/deploy/images/intel-corei7-64 $DEV
-    user@host:~$ cd /opt/installer
-    user@host:~$ ./sbin/cubeit-install -b images/cube-essential-* $DEV
-
-    login: root
-    password: incendia
-
-    user@host:~$ kvm -drive file=pulsar7-minnowboardmax.img,if=virtio -m 2000 -nographic -vnc :3 -serial mon:stdio -vga vmware
-
-    # Note: The terminal is your serial port, and you can access the
-    #       grapics console by starting: vncviewer $YOUR_SERVER_IP:3
-

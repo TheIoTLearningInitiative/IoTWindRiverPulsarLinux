@@ -6,6 +6,7 @@ Quick start instructions to build Wind River Pulsar Linux for Intel Minnowboard 
 
 ## Setup
 
+```
     user@host:~$ cd wr-core
     user@host:~/wr-core$ ./scripts/host_package_install.sh --install --yes
     grep: /etc/lsb-release: No such file or directory
@@ -79,4 +80,4 @@ Quick start instructions to build Wind River Pulsar Linux for Intel Minnowboard 
     Currently 2 running tasks (320 of 8598):
     0: db-native-6.0.30-r0 do_fetch (pid 14452)
     1: libpcre-native-8.35-r0 do_configure (pid 30379)
-
+```

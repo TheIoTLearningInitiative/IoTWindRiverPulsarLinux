@@ -4,7 +4,7 @@
 * [Introduction](documentation/Introduction.md)
    * [Terminology](documentation/Terminology.md)
    * [Wind River Helix](documentation/WindRiverHelix.md)
-* Supported Platforms
+* [Supported Platforms](documentation/SupportedPlatforms.md)
 * [Getting Started](documentation/GettingStarted.md)
    * [Downloading](documentation/Downloading.md)
    * [Building](documentation/Building.md)

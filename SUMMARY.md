@@ -6,6 +6,7 @@
    * [Wind River Helix](documentation/WindRiverHelix.md)
 * [Getting Started](documentation/GettingStarted.md)
    * [Building](documentation/Building.md)
+   * Running
 * [Architecture](documentation/Architecture.md)
    * [Building Blocks](documentation/BuildingBlocks.md)
 * [SandBox](documentation/Sandbox.md)

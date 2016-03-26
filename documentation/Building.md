@@ -6,7 +6,7 @@ Quick start instructions to build Wind River Pulsar Linux for Intel Minnowboard 
 
 ## Setup
 
-```
+```sh
     user@host:~$ cd wr-core
     user@host:~/wr-core$ ./scripts/host_package_install.sh --install --yes
     grep: /etc/lsb-release: No such file or directory

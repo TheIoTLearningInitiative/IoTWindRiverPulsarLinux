@@ -6,7 +6,6 @@
    * [Wind River Helix](documentation/WindRiverHelix.md)
 * [Getting Started](documentation/GettingStarted.md)
    * [Building](documentation/Building.md)
-   * Temp
 * [Architecture](documentation/Architecture.md)
    * [Building Blocks](documentation/BuildingBlocks.md)
    * Temp

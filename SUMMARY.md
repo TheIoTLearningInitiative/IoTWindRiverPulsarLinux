@@ -7,7 +7,7 @@
 * [Getting Started](documentation/GettingStarted.md)
    * [Building](documentation/Building.md)
    * [Running](documentation/Running.md)
-   * Downloading
+   * [Downloading](documentation/Downloading.md)
 * [Architecture](documentation/Architecture.md)
    * [Building Blocks](documentation/BuildingBlocks.md)
 * [SandBox](documentation/Sandbox.md)

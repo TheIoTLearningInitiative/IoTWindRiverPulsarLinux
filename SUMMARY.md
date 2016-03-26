@@ -8,4 +8,5 @@
 * [Building](documentation/Building.md)
 * [Building Blocks](documentation/BuildingBlocks.md)
 * [SandBox](documentation/Sandbox.md)
+* Architecture
 

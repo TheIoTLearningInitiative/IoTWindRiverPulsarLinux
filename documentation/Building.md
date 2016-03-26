@@ -1,10 +1,7 @@
 Building
 ==
 
-Quick start instructions to build Wind River Pulsar Linux for Intel Minnowboard MAX
-
-
-## Setup
+## Setup, Minnowboard MAX
 
 ```sh
     user@host:~$ cd wr-core

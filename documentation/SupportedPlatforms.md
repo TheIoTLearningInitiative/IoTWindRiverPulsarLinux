@@ -17,3 +17,7 @@ Supported Platforms
 > MinnowBoard MAX
 > > Intel Atom – x86
 > > A compact, affordable, and powerful development board for professionals and makers.
+
+> Avnet Agate
+> > NXP LS1021A – ARM
+> > An IoT networking reference platform with pre-integrated wireless WAN, LAN, and PAN connectivity.

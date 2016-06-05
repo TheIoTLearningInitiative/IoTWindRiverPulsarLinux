@@ -45,7 +45,7 @@ MyPulsar: Network proxy server running: 33143 -> 1534 (UDP)
 MyPulsar: Network proxy server running: 34300 -> 1534 (TCP)
 ```
 
-5. Connect to 
+5. Connect to "MyPulsar"
 
 ```sh
 xe1gyq@jessie:~/Downloads/helix-lab-network-proxy$ ssh root@127.0.0.1 -p 40695

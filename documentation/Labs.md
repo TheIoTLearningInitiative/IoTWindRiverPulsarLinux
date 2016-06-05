@@ -262,6 +262,15 @@ root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver#
 ```
 
 ```sh
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# rm -rf /usr/lib64/python2.7/site-packages/distribute-0.6.32-py2.7.egg/
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# pip install -U distribute
+Collecting distribute
+  Using cached distribute-0.7.3.zip
+Requirement already up-to-date: setuptools>=0.7 in /usr/lib/python2.7/site-packages (from distribute)
+Installing collected packages: distribute
+  Running setup.py install for distribute ... done
+Successfully installed distribute-0.7.3
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# 
 ```
 
 ```sh

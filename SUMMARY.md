@@ -15,7 +15,7 @@
 * [Application Development](documentation/ApplicationDevelopment.md)
    * [Python](documentation/Python.md)
    * [NodeJS](documentation/NodeJs.md)
+* System Integration
 * [Labs](documentation/Labs.md)
 * [SandBox](documentation/Sandbox.md)
-* System Integration
 

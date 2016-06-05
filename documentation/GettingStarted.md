@@ -31,6 +31,8 @@
 
 ### Network Configuration
 
+> To support containers and its access requirements, the Pulsar Linux system is configured with a Linux bridge, a virtual switch interface, by default.
+
 ### Device Updates
 
 ### Package Management

@@ -84,3 +84,22 @@ Currently 2 running tasks (320 of 8598):
 1: libpcre-native-8.35-r0 do_configure (pid 30379)
 ...
 ```
+
+```
+| Checking for HAVE_UNIXSOCKET                                                      : ok
+| Checking for HAVE_SECURE_MKSTEMP                                                  : /home/xe1gyq/Projects/WindRiver/wr-core/build-intel-x86/tmp/work/core2-64-wrs-linux/talloc/2.1.1-r0/talloc-2.1.1/lib/replace/wscript:549: error: the configuration failed (see '/home/xe1gyq/Projects/WindRiver/wr-core/build-intel-x86/tmp/work/core2-64-wrs-linux/talloc/2.1.1-r0/talloc-2.1.1/bin/config.log')
+| WARNING: exit code 1 from a shell command.
+| ERROR: Function failed: do_configure (log file is located at /home/xe1gyq/Projects/WindRiver/wr-core/build-intel-x86/tmp/work/core2-64-wrs-linux/talloc/2.1.1-r0/temp/log.do_configure.26774)
+ERROR: Task 4793 (/home/xe1gyq/Projects/WindRiver/wr-core/layers/meta-openembedded/meta-networking/recipes-support/talloc/talloc_2.1.1.bb, do_configure) failed with exit code '1'
+NOTE: Tasks Summary: Attempted 1977 tasks of which 0 didn't need to be rerun and 1 failed.
+NOTE: Build completion summary:
+NOTE:   From shared state: 0
+NOTE:   From scratch: 234
+Waiting for 0 running tasks to finish:
+
+Summary: 1 task failed:
+  /home/xe1gyq/Projects/WindRiver/wr-core/layers/meta-openembedded/meta-networking/recipes-support/talloc/talloc_2.1.1.bb, do_configure
+Summary: There were 9 WARNING messages shown.
+Summary: There was 1 ERROR message shown, returning a non-zero exit code.
+xe1gyq@jessie:~/Projects/WindRiver/wr-core/build-intel-x86$ 
+```

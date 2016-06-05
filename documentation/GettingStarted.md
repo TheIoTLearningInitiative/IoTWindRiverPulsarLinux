@@ -29,6 +29,23 @@
 4. Enable Helix Lab Network Proxy
 
 ```sh
+xe1gyq@jessie:~/Downloads/helix-lab-network-proxy$ ./helix-lab-network-proxy.sh Helix Network Proxy v1.3.3
+
+You are using a Wind River account to connect to the Helix server.
+Your credentials are read from the file /home/xe1gyq/.helix-network-proxy.cred
+
+...
+...
+
+Authentication successful.
+MyCorei7: Secured communication established with target.
+MyCorei7: Network proxy server running: 53984 -> 22 (UDP)
+MyCorei7: Network proxy server running: 40695 -> 22 (TCP)
+MyCorei7: Network proxy server running: 33143 -> 1534 (UDP)
+MyCorei7: Network proxy server running: 34300 -> 1534 (TCP)
+```
+
+```sh
 xe1gyq@jessie:~/Downloads/helix-lab-network-proxy$ ssh root@127.0.0.1 -p 40695
 The authenticity of host '[127.0.0.1]:40695 ([127.0.0.1]:40695)' can't be established.
 ECDSA key fingerprint is 90:d9:d5:8a:cd:2a:0c:f2:72:0e:74:a9:9a:7e:d5:22.

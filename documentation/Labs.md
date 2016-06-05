@@ -359,6 +359,23 @@ root@cube-31-10-15-domE:~#
 ```
 
 ```sh
+root@cube-31-10-15-domE:~# cd pywapi-0.3.8
+root@cube-31-10-15-domE:~/pywapi-0.3.8# python setup.py build
+running build
+running build_py
+creating build
+creating build/lib
+copying pywapi.py -> build/lib
+root@cube-31-10-15-domE:~/pywapi-0.3.8# python setup.py install
+running install
+running build
+running build_py
+running install_lib
+copying build/lib/pywapi.py -> /usr/lib/python2.7/site-packages
+byte-compiling /usr/lib/python2.7/site-packages/pywapi.py to pywapi.pyc
+running install_egg_info
+Writing /usr/lib/python2.7/site-packages/pywapi-0.3.8-py2.7.egg-info
+root@cube-31-10-15-domE:~/pywapi-0.3.8# 
 ```
 
 ```sh

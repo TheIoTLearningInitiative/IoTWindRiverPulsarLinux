@@ -6,3 +6,5 @@
 
 ## Native Application Development
 
+> You can develop applications directly on the device instead of working in a cross-compiling
+environment.

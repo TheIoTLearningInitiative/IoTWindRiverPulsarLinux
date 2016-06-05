@@ -256,6 +256,9 @@ root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver#
 ```
 
 ```sh
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# pip install --upgrade setuptools
+Requirement already up-to-date: setuptools in /usr/lib/python2.7/site-packages
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# 
 ```
 
 ```sh

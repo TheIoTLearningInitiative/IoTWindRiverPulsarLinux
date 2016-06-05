@@ -1,5 +1,9 @@
 # Running
 
+# Flash
+
+[Quick start instructions to build Wind River Pulsar Linux for the Intel Minnow Board Max](https://github.com/WindRiver-OpenSourceLabs/wr-core/blob/pulsar-7.0/docs/README-intel-x86.TXT)
+
 ## Flash, Minnwboard MAX
 
 ```sh

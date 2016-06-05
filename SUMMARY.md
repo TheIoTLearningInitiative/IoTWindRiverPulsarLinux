@@ -11,7 +11,7 @@
 * [Architecture](documentation/Architecture.md)
    * [Building Blocks](documentation/BuildingBlocks.md)
 * [Getting Started](documentation/GettingStarted.md)
-   * System Administration Guide
+   * [System Administration Guide](documentation/SystemAdministrationGuide.md)
 * [SandBox](documentation/Sandbox.md)
 * Customization
 

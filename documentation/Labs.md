@@ -379,6 +379,21 @@ root@cube-31-10-15-domE:~/pywapi-0.3.8#
 ```
 
 ```sh
+root@cube-31-10-15-domE:~/pywapi-0.3.8# cd 
+root@cube-31-10-15-domE:~# cd TheIoTLearningInitiative/InternetOfThings101/
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/InternetOfThings101# 
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
 ```
 
 ```sh

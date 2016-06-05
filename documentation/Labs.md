@@ -253,7 +253,6 @@ Installing collected packages: pip
       Successfully uninstalled pip-7.1.0
 Successfully installed pip-8.1.2
 root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# 
-
 ```
 
 ```sh

@@ -17,6 +17,6 @@
 
 > Wind River® Pulsar™ Linux is a small, high-performance, secure, and manageable Open Source Linux distribution designed to simplify and speed your embedded and Internet of Things (IoT) development projects. Based on 35 years of Wind River industry-leading experience and the latest Yocto Project Compatible releases, Pulsar ensures your team is working with the highest-quality commercial open source embedded operating system on the market. [MinnowBoard MAX Wind River® Pulsar™ Linux](http://wiki.minnowboard.org/Wind_River_Pulsar_Linux)
 
-Pulsar Linux is certified on the MinnowBoard MAX development board: download an image and begin development immediately without any of the headaches and hassles of setting up your own embedded operating system. [MinnowBoard MAX Wind River® Pulsar™ Linux](http://wiki.minnowboard.org/Wind_River_Pulsar_Linux)
+> Pulsar Linux is certified on the MinnowBoard MAX development board: download an image and begin development immediately without any of the headaches and hassles of setting up your own embedded operating system. [MinnowBoard MAX Wind River® Pulsar™ Linux](http://wiki.minnowboard.org/Wind_River_Pulsar_Linux)
 
 

@@ -46,7 +46,15 @@ root@cube-31-10-15-domE:~#
 ```
 
 ```sh
+root@cube-31-10-15-domE:~# n stable
 
+     install : node-v6.2.1
+       mkdir : /usr/local/n/versions/node/6.2.1
+       fetch : https://nodejs.org/dist/v6.2.1/node-v6.2.1-linux-x64.tar.gz
+######################################################################## 100.0%
+   installed : v6.2.1
+
+root@cube-31-10-15-domE:~# 
 ```
 
 ```sh

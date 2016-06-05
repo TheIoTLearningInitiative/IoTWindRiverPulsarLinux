@@ -420,4 +420,10 @@ root@cube-31-10-15-domE:~/TheIoTLearningInitiative/InternetOfThings101#
 root@cube-31-10-15-domE:~/python-telegram-bot# pip install -U future
 Requirement already up-to-date: future in /usr/lib/python2.7/site-packages
 root@cube-31-10-15-domE:~/python-telegram-bot# python setup.py install
+...
+Installing pasteurize script to /usr/bin
+Installing futurize script to /usr/bin
+
+Using /usr/lib/python2.7/site-packages
+Finished processing dependencies for python-telegram-bot==4.2.0
 ```

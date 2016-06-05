@@ -23,6 +23,8 @@
 
 ### Container Management
 
+> The container infrastructure in the Pulsar Linux system is built using Linux containers and OverC, an open source project which provides a software framework for containerization.
+
 ### User Management
 
 ### Network Configuration

@@ -427,4 +427,8 @@ Installing futurize script to /usr/bin
 Using /usr/lib/python2.7/site-packages
 Finished processing dependencies for python-telegram-bot==4.2.0
 root@cube-31-10-15-domE:~/python-telegram-bot# 
+root@cube-31-10-15-domE:~/python-telegram-bot# cd examples/
+root@cube-31-10-15-domE:~/python-telegram-bot/examples# dir
+LICENSE.txt  inlinebot.py		legacy		      timerbot.py
+echobot2.py  inlinekeyboard_example.py	state_machine_bot.py
 ```

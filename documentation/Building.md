@@ -1,5 +1,4 @@
-Building
-==
+# Building
 
 ## Setup, Minnowboard MAX
 

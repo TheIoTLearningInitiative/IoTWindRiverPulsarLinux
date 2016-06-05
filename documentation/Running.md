@@ -26,7 +26,7 @@ user@host:~$ ./sbin/cubeit-install -b images/cube-essential-* $DEV
     password: incendia
 ```
 
-### Simulate the image with kvm/qemu
+### Simulate the image with Kvm/Qemu
 
 ```sh
 user@host:~$ kvm -drive file=pulsar7-minnowboardmax.img,if=virtio -m 2000 -nographic -vnc :3 -serial mon:stdio -vga vmware

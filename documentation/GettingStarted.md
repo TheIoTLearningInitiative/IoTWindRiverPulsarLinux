@@ -23,4 +23,4 @@
 
 > A Virtual Lab, For Your Virtual Hardware. Wind River® Helix™ Lab Cloud is an instantly accessible software lab that improves team collaboration and shortens development cycles. [Homepage](https://lab.cloud.windriver.com/)
 
-1. Sign in to Lab Cloud
+1. [Sign in to Lab Cloud](https://lab.cloud.windriver.com/user/login/sso)

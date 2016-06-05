@@ -292,3 +292,12 @@ root@cube-31-10-15-domE:~# cd TheIoTLearningInitiative/
 root@cube-31-10-15-domE:~/TheIoTLearningInitiative# cd InternetOfThings101/
 root@cube-31-10-15-domE:~/TheIoTLearningInitiative/InternetOfThings101# 
 ```
+
+```
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/InternetOfThings101# python main.py 
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    import pywapi
+ImportError: No module named pywapi
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/InternetOfThings101#    
+```

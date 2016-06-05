@@ -20,6 +20,14 @@ root@cube-31-10-15-domE:~#
 ```
 
 ```sh
+root@cube-31-10-15-domE:~# cd TheIoTLearningInitiative/
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative# git branch -a
+* master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/embeddedlinux
+  remotes/origin/master
+  remotes/origin/windriver
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative# 
 ```
 
 ```sh

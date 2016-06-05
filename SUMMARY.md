@@ -13,7 +13,7 @@
 * [Getting Started](documentation/GettingStarted.md)
    * [System Administration Guide](documentation/SystemAdministrationGuide.md)
 * [Application Development](documentation/ApplicationDevelopment.md)
-   * Python
+   * [Python](documentation/Python.md)
 * [Labs](documentation/Labs.md)
 * [SandBox](documentation/Sandbox.md)
 

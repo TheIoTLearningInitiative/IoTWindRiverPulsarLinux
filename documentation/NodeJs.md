@@ -84,15 +84,3 @@ Servidor en http://127.0.0.1:8124
 [3]+  Stopped(SIGTSTP)        node server.js
 root@cube-31-10-15-domE:~# 
 ```
-
-```sh
-
-```
-
-```sh
-
-```
-
-```sh
-
-```

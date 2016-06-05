@@ -4,7 +4,7 @@
 
 ```sh
     user@host:~$ cd wr-core
-    user@host:~/wr-core$ ./scripts/host_package_install.sh --install --yes
+    user@host:~/wr-core$ sudo ./scripts/host_package_install.sh --install --yes
     grep: /etc/lsb-release: No such file or directory
     You need to install additional software on your host system
         in order to use the development environment.

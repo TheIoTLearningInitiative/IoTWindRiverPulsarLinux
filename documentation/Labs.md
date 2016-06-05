@@ -170,6 +170,36 @@ root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver#
 ```
 
 ```sh
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# smart install python-dev
+Loading cache...
+Updating cache...               ######################################## [100%]
+
+Computing transaction...
+
+Upgrading packages (6):
+  bzip2-1.0.6-r5.1@core2_64              libreadline6-6.3-r0.1@core2_64         
+  db-6.0.30-r0.1@core2_64                ncurses-5.9-r15.1.1@core2_64           
+  libbz2-0-1.0.6-r5.1@core2_64           openssl-1.0.1j-r0.1@core2_64           
+
+Installing packages (14):
+  bzip2-dev-1.0.6-r5.1@core2_64                                                 
+  cryptodev-linux-1.6-r0.1@core2_64                                             
+  cryptodev-linux-dev-1.6-r0.1@core2_64                                         
+  db-dev-6.0.30-r0.1@core2_64                                                   
+  libbz2-dev-1.0.6-r5.1@core2_64                                                
+  libformw5-5.9-r15.1.1@core2_64                                                
+  libmenuw5-5.9-r15.1.1@core2_64                                                
+  libreadline-dev-6.3-r0.1@core2_64                                             
+  libsqlite3-dev-3:3.8.6.0-r0.1@core2_64                                        
+  libtic5-5.9-r15.1.1@core2_64                                                  
+  libticw5-5.9-r15.1.1@core2_64                                                 
+  ncurses-dev-5.9-r15.1.1@core2_64                                              
+  openssl-dev-1.0.1j-r0.1@core2_64                                              
+  python-dev-2.7.3-r0.3.1@core2_64                                              
+
+1.8MB of package files are needed. 3.0MB will be used.
+
+Confirm changes? (Y/n): 
 ```
 
 ```sh

@@ -414,4 +414,10 @@ Data Sensor: 58592
 root@cube-31-10-15-domE:~/TheIoTLearningInitiative/InternetOfThings101# 
 ```
 
+# Python Telegram Bot
 
+```sh
+root@cube-31-10-15-domE:~/python-telegram-bot# pip install -U future
+Requirement already up-to-date: future in /usr/lib/python2.7/site-packages
+root@cube-31-10-15-domE:~/python-telegram-bot# python setup.py install
+```

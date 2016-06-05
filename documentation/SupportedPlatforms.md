@@ -1,6 +1,5 @@
 # Supported Platforms
 
-
 ## Avnet MicroZed
 
 > Xilinx Zynq 7000 FPGA – ARM

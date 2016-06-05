@@ -1,6 +1,6 @@
 # Downloading
 
-> Want the source code? We are developing Pulsar directly on [Github](https://github.com/WindRiver-OpenSourceLabs/wr-core). You can download the build system, cross toolchain, and all layers and packages needed to build Pulsar on Intel® and ARM® hardware targets by following the instructions on GitHub. You’ll be building in less than five minutes. Wind River 
+> Want the source code? We are developing Pulsar directly on [Github](https://github.com/WindRiver-OpenSourceLabs/wr-core). You can download the build system, cross toolchain, and all layers and packages needed to build Pulsar on Intel® and ARM® hardware targets by following the instructions on GitHub. You’ll be building in less than five minutes. [Wind River](http://www.windriver.com/products/operating-systems/pulsar/)
 
 ## Clone Repository
 

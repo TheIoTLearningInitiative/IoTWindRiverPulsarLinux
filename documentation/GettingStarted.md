@@ -35,6 +35,8 @@
 
 ### Device Updates
 
+> By default, the Pulsar Linux system is configured to use the Wind River public repository for the most critical Linux updates.
+
 ### Package Management
 
 #### Smart Package Manager (SmartPM)

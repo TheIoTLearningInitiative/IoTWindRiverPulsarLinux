@@ -29,3 +29,9 @@ Saving cache...
 
 root@cube-31-10-15-domE:~# 
 ```
+
+```
+root@cube-31-10-15-domE:~# node -v
+v0.10.35
+root@cube-31-10-15-domE:~# 
+```

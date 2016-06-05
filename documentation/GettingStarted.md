@@ -55,3 +55,17 @@ root@127.0.0.1's password:
 Last login: Mon Nov  2 14:14:36 2015 from simics0.network.sim
 root@cube-31-10-15-domE:~# 
 ```
+
+```sh
+root@cube-31-10-15-domE:~# ping google.com
+PING google.com (74.125.28.113) 56(84) bytes of data.
+From simics0.network.sim (10.10.0.1) icmp_seq=1 Destination Host Unreachable
+From simics0.network.sim (10.10.0.1) icmp_seq=2 Destination Host Unreachable
+From simics0.network.sim (10.10.0.1) icmp_seq=3 Destination Host Unreachable
+From simics0.network.sim (10.10.0.1) icmp_seq=4 Destination Host Unreachable
+^C
+--- google.com ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 2999ms
+
+root@cube-31-10-15-domE:~# 
+```

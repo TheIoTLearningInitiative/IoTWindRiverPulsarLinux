@@ -11,6 +11,6 @@
   - Booting Up the MinnowBoard MAX Device
 
 
-[Wind River® Pulsar™ Linux](http://wiki.minnowboard.org/Wind_River_Pulsar_Linux)
+[MinnowBoard MAX Wind River® Pulsar™ Linux](http://wiki.minnowboard.org/Wind_River_Pulsar_Linux)
 
 

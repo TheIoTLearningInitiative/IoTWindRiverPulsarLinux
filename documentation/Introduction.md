@@ -7,6 +7,7 @@
 - [Wind River Pulsar Linux Product Overview](http://www.windriver.com/products/product-overviews/Pulsar-Linux-Product-Overview.pdf)
 - [Partnering with Wind River Pulsar Linux](http://www.windriver.com/products/product-overviews/Pulsar-Partner-Solution-Brief.pdf)
 - [Wind River Pulsar Linux Github](https://github.com/WindRiver-OpenSourceLabs/wr-core)
+- [Wind River Pulsar Linux Knowledge Library](https://knowledge.windriver.com/en-us/000_Products/000/060/000)
 
 ## Wind River Support Network Knowledge Library
 

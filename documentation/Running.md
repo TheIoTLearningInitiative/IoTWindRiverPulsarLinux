@@ -9,15 +9,16 @@
 ### Build a self-bootable image
 
 ```sh
-    user@host:~$ sudo ../overc-installer/sbin/cubeit --force --config `pwd`/../install_templates/intel-x86/config-live.sh --artifacts `pwd`/tmp/deploy/images/intel-corei7-64 pulsar7-minnowboardmax.img
+user@host:~$ sudo ../overc-installer/sbin/cubeit --force --config `pwd`/../install_templates/intel-x86/config-live.sh --artifacts `pwd`/tmp/deploy/images/intel-corei7-64 pulsar7-minnowboardmax.img
 ```
 
 ### Build an installer image or USB stick
 
 ```sh
-    user@host:~$ sudo ../overc-installer/sbin/cubeit --force --config `pwd`/../install_templates/intel-x86/config-live.sh --artifacts `pwd`/tmp/deploy/images/intel-corei7-64 $DEV
-    user@host:~$ cd /opt/installer
-    user@host:~$ ./sbin/cubeit-install -b images/cube-essential-* $DEV
+user@host:~$ export DEV=/dev/NBD_DEVICE  # or a USB storage device
+user@host:~$ sudo ../overc-installer/sbin/cubeit --force --config `pwd`/../install_templates/intel-x86/config-live.sh --artifacts `pwd`/tmp/deploy/images/intel-corei7-64 $DEV
+user@host:~$ cd /opt/installer
+user@host:~$ ./sbin/cubeit-install -b images/cube-essential-* $DEV
 ```
 
 ```sh

@@ -24,7 +24,7 @@
 > A Virtual Lab, For Your Virtual Hardware. Wind River® Helix™ Lab Cloud is an instantly accessible software lab that improves team collaboration and shortens development cycles. [Homepage](https://lab.cloud.windriver.com/)
 
 1. [Sign in to Lab Cloud](https://lab.cloud.windriver.com/user/login/sso)
-2. Add a new session using "Intel Core i7 Virtual System with Wind River Pulsar Linux 7"
+2. Add a new session using "Intel Core i7 Virtual System with Wind River Pulsar Linux 7" called "MyPulsar"
 3. Start Simulation
 4. Enable Helix Lab Network Proxy
 
@@ -38,11 +38,11 @@ Your credentials are read from the file /home/xe1gyq/.helix-network-proxy.cred
 ...
 
 Authentication successful.
-MyCorei7: Secured communication established with target.
-MyCorei7: Network proxy server running: 53984 -> 22 (UDP)
-MyCorei7: Network proxy server running: 40695 -> 22 (TCP)
-MyCorei7: Network proxy server running: 33143 -> 1534 (UDP)
-MyCorei7: Network proxy server running: 34300 -> 1534 (TCP)
+MyPulsar: Secured communication established with target.
+MyPulsar: Network proxy server running: 53984 -> 22 (UDP)
+MyPulsar: Network proxy server running: 40695 -> 22 (TCP)
+MyPulsar: Network proxy server running: 33143 -> 1534 (UDP)
+MyPulsar: Network proxy server running: 34300 -> 1534 (TCP)
 ```
 
 5. Connect to 

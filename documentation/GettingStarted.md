@@ -25,3 +25,4 @@
 
 1. [Sign in to Lab Cloud](https://lab.cloud.windriver.com/user/login/sso)
 2. Create "A general purpose 4 core Intel Core i7 Virtual System running Wind River Pulsar Linux 7"
+3. 

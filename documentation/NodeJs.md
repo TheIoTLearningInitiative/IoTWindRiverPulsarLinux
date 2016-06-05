@@ -59,6 +59,7 @@ root@cube-31-10-15-domE:~# node
 Holado!
 undefined
 > 
+Ctrl - D
 ```
 
 ```sh

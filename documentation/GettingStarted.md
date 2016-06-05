@@ -1,7 +1,7 @@
 # Getting Started
 ==
 
-> Wind River Pulsar Linux is an application-ready Linux distribution that has been certified on select hardware. Pulsar Linux is designed to be simple to install so you can start developing in minutes. Pulsar Linux is a small, secure, high-performance, secure, and manageable image that is certified and bundled with COTS platforms. It includes select packages from the traditional Wind River Linux development environment and its market-specific profiles.
+> Wind River Pulsar Linux is an application-ready Linux distribution that has been certified on select hardware. Pulsar Linux is designed to be simple to install so you can start developing in minutes. Pulsar Linux is a small, secure, high-performance, secure, and manageable image that is certified and bundled with COTS platforms. It includes select packages from the traditional Wind River Linux development environment and its market-specific profiles. [Wind River® Pulsar Linux Getting Started System Administrator Guide](https://software.intel.com/en-us/articles/wind-river-pulsar-linux-getting-started-7-0)
 
 - Introduction
 - System Architecture Overview
@@ -11,7 +11,6 @@
 - Device Updates
 - Package Management
 
-- [Wind River® Pulsar Linux Getting Started System Administrator Guide](https://software.intel.com/en-us/articles/wind-river-pulsar-linux-getting-started-7-0)
 - [Wind River® Pulsar Linux Getting Started Non Working Link](https://knowledge.windriver.com/@api/deki/files/242263/wr_pulsar_linux_getting_started_70.pdf)
 
 ### Introduction

@@ -4,6 +4,7 @@
 * [Introduction](documentation/Introduction.md)
    * [Terminology](documentation/Terminology.md)
 * [Supported Platforms](documentation/SupportedPlatforms.md)
+* Build System
 * [Getting Started](documentation/GettingStarted.md)
    * [Downloading](documentation/Downloading.md)
    * [Building](documentation/Building.md)
@@ -12,5 +13,4 @@
    * [Building Blocks](documentation/BuildingBlocks.md)
 * [SandBox](documentation/Sandbox.md)
 * Customization
-* Build System
 

@@ -71,10 +71,10 @@ var http = require('http');
 
 http.createServer(function (peticion, respuesta) {
     respuesta.writeHead(200, {'Content-Type': 'text/plain'});
-    respuesta.end('¡Holaegante!');;
+    respuesta.end('Hola Mundo!');
 }).listen(8124, '127.0.0.1');
 
-console.log('Servidorcutándose en http://127.0.0.1:8124'); 
+console.log('Servidor en http://127.0.0.1:8124');
 ```
 
 ```sh

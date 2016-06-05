@@ -9,7 +9,8 @@ Getting Started
 - Device Updates
 - Package Management
 
-[Wind River® Pulsar Linux Getting Started](https://knowledge.windriver.com/@api/deki/files/242263/wr_pulsar_linux_getting_started_70.pdf)
+- [Wind River® Pulsar Linux Getting Started Non Working Link](https://knowledge.windriver.com/@api/deki/files/242263/wr_pulsar_linux_getting_started_70.pdf)
+- [Wind River® Pulsar Linux Getting Started](https://software.intel.com/en-us/articles/wind-river-pulsar-linux-getting-started-7-0)
 
 ### Introduction
 

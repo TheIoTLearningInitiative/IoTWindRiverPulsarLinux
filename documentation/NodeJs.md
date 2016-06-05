@@ -78,7 +78,8 @@ console.log('Servidor en http://127.0.0.1:8124');
 ```
 
 ```sh
-
+root@cube-31-10-15-domE:~# node server.js 
+Servidor en http://127.0.0.1:8124
 ```
 
 ```sh

@@ -8,7 +8,6 @@
    * [Downloading](documentation/Downloading.md)
    * [Building](documentation/Building.md)
    * [Running](documentation/Running.md)
-   * Tbd
 * [Getting Started](documentation/GettingStarted.md)
 * [Architecture](documentation/Architecture.md)
    * [Building Blocks](documentation/BuildingBlocks.md)

@@ -25,4 +25,4 @@
 
 1. [Sign in to Lab Cloud](https://lab.cloud.windriver.com/user/login/sso)
 2. Add a new session using "Intel Core i7 Virtual System with Wind River Pulsar Linux 7"
-3. 
+3. Start 

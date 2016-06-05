@@ -86,8 +86,10 @@ root@cube-31-10-15-domE:~#
 
 8. Update Date and Time
 
+```sh
 root@cube-31-10-15-domE:~# date -s "2016/06/04 22:51:15"
 Sat Jun  4 22:51:15 EDT 2016
 root@cube-31-10-15-domE:~# npm install -g n
+```
 
 9. Clean screen with "Ctrl - l"

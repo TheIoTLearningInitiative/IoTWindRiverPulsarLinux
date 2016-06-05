@@ -5,9 +5,9 @@
    * [Terminology](documentation/Terminology.md)
 * [Supported Platforms](documentation/SupportedPlatforms.md)
 * Build System
+   * [Downloading](documentation/Downloading.md)
    * Tbd
 * [Getting Started](documentation/GettingStarted.md)
-   * [Downloading](documentation/Downloading.md)
    * [Building](documentation/Building.md)
    * [Running](documentation/Running.md)
 * [Architecture](documentation/Architecture.md)

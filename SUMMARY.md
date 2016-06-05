@@ -4,7 +4,6 @@
 * [Introduction](documentation/Introduction.md)
    * [Terminology](documentation/Terminology.md)
 * [Supported Platforms](documentation/SupportedPlatforms.md)
-   * Labs
 * Build System
    * [Downloading](documentation/Downloading.md)
    * [Building](documentation/Building.md)
@@ -13,5 +12,6 @@
    * [Building Blocks](documentation/BuildingBlocks.md)
 * [Getting Started](documentation/GettingStarted.md)
    * [System Administration Guide](documentation/SystemAdministrationGuide.md)
+* Labs
 * [SandBox](documentation/Sandbox.md)
 

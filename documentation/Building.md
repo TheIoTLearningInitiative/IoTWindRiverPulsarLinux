@@ -21,9 +21,11 @@ Building
         cube-dom0 
         cube-domE
         cube-server
+```
 
 ## Bitbake
 
+```sh
     user@host:~/wr-core$ bitbake cube-domE cube-dom0 cube-essential
         
     xe1gyq@jessie:~/WindRiver/wr-core/build-intel-x86$ bitbake cube-domE cube-dom0 cube-essential

@@ -19,5 +19,5 @@
 
 > Pulsar Linux is certified on the MinnowBoard MAX development board: download an image and begin development immediately without any of the headaches and hassles of setting up your own embedded operating system. [MinnowBoard MAX Wind River® Pulsar™ Linux](http://wiki.minnowboard.org/Wind_River_Pulsar_Linux)
 
-# Wind River Helix Lab Cloud
+# Wind River® Helix Lab Cloud
 

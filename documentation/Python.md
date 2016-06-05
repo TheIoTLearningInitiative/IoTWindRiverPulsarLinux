@@ -87,8 +87,6 @@ root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver#
 
 ## InternetOfThings101 Branch
 
-Pip Installion Error
-
 ```sh
 root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# pip install psutil
 You are using pip version 7.1.0, however version 8.1.2 is available.

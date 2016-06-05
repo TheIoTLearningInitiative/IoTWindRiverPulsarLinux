@@ -58,6 +58,16 @@ root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver#
 ```
 
 ```sh
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# python mainpulsar.py 
+Hello Internet of Things 101
+Data Sensor: 95 
+Hello Internet of Things 101
+Data Sensor: 54 
+Hello Internet of Things 101
+Data Sensor: 20 
+^C^Z
+[1]+  Stopped(SIGTSTP)        python mainpulsar.py
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# 
 ```
 
 ```sh

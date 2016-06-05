@@ -283,5 +283,12 @@ Successfully installed psutil-4.2.0
 root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# 
 ```
 
-
-
+```sh
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# git checkout master
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# cd
+root@cube-31-10-15-domE:~# cd TheIoTLearningInitiative/
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative# cd InternetOfThings101/
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/InternetOfThings101# 
+```

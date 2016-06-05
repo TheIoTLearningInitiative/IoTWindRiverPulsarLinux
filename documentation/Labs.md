@@ -143,7 +143,30 @@ root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver#
 ```
 
 ```sh
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# smart update
+Loading cache...
+Updating cache...               ######################################## [100%]
 
+Fetching information for 'all'...                                              
+-> https://distro.windriver.com/public_feeds/.../repomd.xml                    
+repomd.xml                      ######################################## [ 12%]
+                                                                               
+Fetching information for 'core2_64_intel_common'...
+-> https://distro.windriver.com/public_feeds/.../repomd.xml                    
+repomd.xml                      ######################################## [ 31%]
+                                                                               
+Fetching information for 'core2_64'...
+-> https://distro.windriver.com/public_feeds/.../repomd.xml                    
+repomd.xml                      ######################################## [ 50%]
+                                                                               
+Fetching information for 'intel_corei7_64'...
+-> https://distro.windriver.com/public_feeds/.../repomd.xml                    
+repomd.xml                      ######################################## [ 68%]
+
+Updating cache...               ######################################## [100%]
+
+Channels have no new packages.
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# 
 ```
 
 ```sh

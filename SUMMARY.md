@@ -12,6 +12,6 @@
    * [Building Blocks](documentation/BuildingBlocks.md)
 * [Getting Started](documentation/GettingStarted.md)
    * [System Administration Guide](documentation/SystemAdministrationGuide.md)
-* Labs
+* [Labs](documentation/Labs.md)
 * [SandBox](documentation/Sandbox.md)
 

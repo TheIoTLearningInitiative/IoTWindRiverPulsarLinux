@@ -199,7 +199,43 @@ Installing packages (14):
 
 1.8MB of package files are needed. 3.0MB will be used.
 
-Confirm changes? (Y/n): 
+Confirm changes? (Y/n): Y
+...
+...
+Committing transaction...
+Preparing...                    ######################################## [  0%]
+   1:Installing libmenuw5       ######################################## [  3%]
+   2:Installing libformw5       ######################################## [  7%]
+   3:Installing db              ######################################## [ 11%]
+   4:Cleaning db                ######################################## [ 15%]
+   5:Installing bzip2           ######################################## [ 19%]
+Output from bzip2-1.0.6-r5.1@core2_64:                                         
+update-alternatives: Linking //usr/bin/bunzip2 to /usr/bin/bunzip2.bzip2       
+update-alternatives: Linking //usr/bin/bzcat to /usr/bin/bzcat.bzip2
+   6:Cleaning bzip2             ######################################## [ 23%]
+   7:Installing cryptodev-linux ######################################## [ 26%]
+   8:Installing libreadline6    ######################################## [ 30%]
+   9:Cleaning libreadline6      ######################################## [ 34%]
+  10:Installing libbz2-0        ######################################## [ 38%]
+  11:Cleaning libbz2-0          ######################################## [ 42%]
+  12:Installing python-dev      ######################################## [ 46%]
+  13:Installing ncurses         ######################################## [ 50%]
+  14:Cleaning ncurses           ######################################## [ 53%]
+  15:Installing libtic5         ######################################## [ 57%]
+  16:Installing openssl         ######################################## [ 61%]
+  17:Cleaning openssl           ######################################## [ 65%]
+  18:Installing libticw5        ######################################## [ 69%]
+  19:Installing libsqlite3-dev  ######################################## [ 73%]
+  20:Installing db-dev          ######################################## [ 76%]
+  21:Installing bzip2-dev       ######################################## [ 80%]
+  22:Installing cryptodev-lin.. ######################################## [ 84%]
+  23:Installing libreadline-dev ######################################## [ 88%]
+  24:Installing libbz2-dev      ######################################## [ 92%]
+  25:Installing openssl-dev     ######################################## [ 96%]
+  26:Installing ncurses-dev     ######################################## [100%]
+
+
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# 
 ```
 
 ```sh

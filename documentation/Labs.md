@@ -7,4 +7,32 @@ fatal: unable to access 'https://github.com/xe1gyq/TheIoTLearningInitiative.git/
 root@cube-31-10-15-domE:~# 
 ```
 
+```sh
+root@cube-31-10-15-domE:~# git config --global http.sslverify false
+root@cube-31-10-15-domE:~# git clone https://github.com/xe1gyq/TheIoTLearningInitiative.git
+Cloning into 'TheIoTLearningInitiative'...
+remote: Counting objects: 63, done.
+remote: Compressing objects: 100% (16/16), done.
+remote: Total 63 (delta 9), reused 0 (delta 0), pack-reused 43
+Unpacking objects: 100% (63/63), done.
+Checking connectivity... done.
+root@cube-31-10-15-domE:~# 
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
+
 

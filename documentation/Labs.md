@@ -274,6 +274,13 @@ root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver#
 ```
 
 ```sh
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# pip install psutil
+Collecting psutil
+  Using cached psutil-4.2.0.tar.gz
+Installing collected packages: psutil
+  Running setup.py install for psutil ... done
+Successfully installed psutil-4.2.0
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# 
 ```
 
 

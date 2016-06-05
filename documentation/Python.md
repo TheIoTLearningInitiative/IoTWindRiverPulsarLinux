@@ -1,4 +1,3 @@
-
 # Python
 
 Python is a widely used high-level, general-purpose, interpreted, dynamic programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java. The language provides constructs intended to enable clear programs on both a small and large scale. [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)
@@ -434,5 +433,6 @@ echobot2.py  inlinekeyboard_example.py	state_machine_bot.py
 
 ```sh
 root@cube-31-10-15-domE:~/python-telegram-bot/examples# vim timerbot.py 
+...
 root@cube-31-10-15-domE:~/python-telegram-bot/examples# python timerbot.py 
 ```

@@ -31,6 +31,13 @@ root@cube-31-10-15-domE:~/TheIoTLearningInitiative#
 ```
 
 ```sh
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative# git checkout -b windriver origin/windriver
+Branch windriver set up to track remote branch windriver from origin.
+Switched to a new branch 'windriver'
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative# cd WindRiver/
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# ls
+mainpulsar.py
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/WindRiver# 
 ```
 
 ```sh

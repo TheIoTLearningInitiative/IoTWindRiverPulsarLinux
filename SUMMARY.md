@@ -4,6 +4,7 @@
 * [Introduction](documentation/Introduction.md)
    * [Terminology](documentation/Terminology.md)
 * [Supported Platforms](documentation/SupportedPlatforms.md)
+   * Labs
 * Build System
    * [Downloading](documentation/Downloading.md)
    * [Building](documentation/Building.md)

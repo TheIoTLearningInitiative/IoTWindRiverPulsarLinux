@@ -62,6 +62,10 @@ undefined
 Ctrl - D
 ```
 
+```sh
+root@cube-31-10-15-domE:~# vim server.js
+```
+
 ```js
 var http = require('http');
 

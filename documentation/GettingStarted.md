@@ -27,3 +27,14 @@
 2. Add a new session using "Intel Core i7 Virtual System with Wind River Pulsar Linux 7"
 3. Start Simulation
 4. Enable Helix Lab Network Proxy
+
+```sh
+xe1gyq@jessie:~/Downloads/helix-lab-network-proxy$ ssh root@127.0.0.1 -p 40695
+The authenticity of host '[127.0.0.1]:40695 ([127.0.0.1]:40695)' can't be established.
+ECDSA key fingerprint is 90:d9:d5:8a:cd:2a:0c:f2:72:0e:74:a9:9a:7e:d5:22.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added '[127.0.0.1]:40695' (ECDSA) to the list of known hosts.
+root@127.0.0.1's password: 
+Last login: Mon Nov  2 14:14:36 2015 from simics0.network.sim
+root@cube-31-10-15-domE:~# 
+```

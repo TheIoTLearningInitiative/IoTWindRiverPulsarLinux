@@ -13,5 +13,4 @@
 * [Getting Started](documentation/GettingStarted.md)
    * [System Administration Guide](documentation/SystemAdministrationGuide.md)
 * [SandBox](documentation/Sandbox.md)
-* Customization
 

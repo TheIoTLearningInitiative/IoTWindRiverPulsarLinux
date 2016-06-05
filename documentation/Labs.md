@@ -302,3 +302,37 @@ ImportError: No module named pywapi
 root@cube-31-10-15-domE:~/TheIoTLearningInitiative/InternetOfThings101#    
 ```
 
+```sh
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/InternetOfThings101# cd 
+root@cube-31-10-15-domE:~# wget https://launchpad.net/python-weather-api/trunk/0.3.8/+download/pywapi-0.3.8.tar.gz
+--2015-11-02 16:13:37--  https://launchpad.net/python-weather-api/trunk/0.3.8/+download/pywapi-0.3.8.tar.gz
+Resolving launchpad.net... 91.189.89.223
+Connecting to launchpad.net|91.189.89.223|:443... connected.
+ERROR: The certificate of 'launchpad.net' is not trusted.
+ERROR: The certificate of 'launchpad.net' is not yet activated.
+The certificate has not yet been activated
+root@cube-31-10-15-domE:~# wget --no-check-certificate  https://launchpad.net/python-weather-api/trunk/0.3.8/+download/pywapi-0.3.8.tar.gz
+--2015-11-02 16:14:23--  https://launchpad.net/python-weather-api/trunk/0.3.8/+download/pywapi-0.3.8.tar.gz
+Resolving launchpad.net... 91.189.89.223
+Connecting to launchpad.net|91.189.89.223|:443... connected.
+WARNING: The certificate of 'launchpad.net' is not trusted.
+WARNING: The certificate of 'launchpad.net' is not yet activated.
+The certificate has not yet been activated
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://launchpadlibrarian.net/166317636/pywapi-0.3.8.tar.gz [following]
+--2015-11-02 16:14:24--  https://launchpadlibrarian.net/166317636/pywapi-0.3.8.tar.gz
+Resolving launchpadlibrarian.net... 91.189.89.228
+Connecting to launchpadlibrarian.net|91.189.89.228|:443... connected.
+WARNING: The certificate of 'launchpadlibrarian.net' is not trusted.
+WARNING: The certificate of 'launchpadlibrarian.net' is not yet activated.
+The certificate has not yet been activated
+HTTP request sent, awaiting response... 200 OK
+Length: 25166 (25K) [application/x-tar]
+Saving to: 'pywapi-0.3.8.tar.gz'
+
+100%[======================================>] 25,166       123KB/s   in 0.2s   
+
+2015-11-02 16:14:26 (123 KB/s) - 'pywapi-0.3.8.tar.gz' saved [25166/25166]
+
+root@cube-31-10-15-domE:~# 
+```

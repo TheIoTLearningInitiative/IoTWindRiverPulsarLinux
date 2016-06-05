@@ -4,7 +4,7 @@
 # MinnowBoard MAX
 
 
-## Pulsar™ Linux @ Wind River® Homepage
+## Pulsar™ Linux @ Wind River® Webpage
 
 [Wind River Pulsar Linux Quick Start for MinnowBoard MAX, 7.0](https://knowledge.windriver.com/en-us/000_Products/000/060/000/030/000_Wind_River_Pulsar_Linux_Quick_Start_for_MinnowBoard_MAX%2C_7.0)
 
@@ -13,7 +13,7 @@
   - Loading the Certified Image onto a Memory Device
   - Booting Up the MinnowBoard MAX Device
 
-## MinnowBoard MAX Wind River® Pulsar™ Linux
+## Pulsar™ Linux @ MinnowBoard MAX Webpage
 
 > Wind River® Pulsar™ Linux is a small, high-performance, secure, and manageable Open Source Linux distribution designed to simplify and speed your embedded and Internet of Things (IoT) development projects. Based on 35 years of Wind River industry-leading experience and the latest Yocto Project Compatible releases, Pulsar ensures your team is working with the highest-quality commercial open source embedded operating system on the market. [MinnowBoard MAX Wind River® Pulsar™ Linux](http://wiki.minnowboard.org/Wind_River_Pulsar_Linux)
 

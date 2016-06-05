@@ -84,4 +84,10 @@ From simics0.network.sim (10.10.0.1) icmp_seq=4 Destination Host Unreachable
 root@cube-31-10-15-domE:~# 
 ```
 
-8. Clean screen with "Ctrl - l"
+8. Update date
+
+root@cube-31-10-15-domE:~# date -s "2016/06/04 22:51:15"
+Sat Jun  4 22:51:15 EDT 2016
+root@cube-31-10-15-domE:~# npm install -g n
+
+9. Clean screen with "Ctrl - l"

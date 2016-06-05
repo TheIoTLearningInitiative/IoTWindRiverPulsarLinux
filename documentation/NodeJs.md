@@ -42,6 +42,7 @@ npm WARN using --force I sure hope you know what you are doing.
 root@cube-31-10-15-domE:~# npm install -g n
 /usr/bin/n -> /usr/lib/node_modules/n/bin/n
 n@2.1.0 /usr/lib/node_modules/n
+root@cube-31-10-15-domE:~# 
 ```
 
 ```sh

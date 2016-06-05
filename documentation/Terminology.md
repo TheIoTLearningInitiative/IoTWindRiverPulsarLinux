@@ -1,9 +1,5 @@
 # Terminology
 
-# Linux Containers
-
-> LXC (Linux Containers) is an operating-system-level virtualization method for running multiple isolated Linux systems (containers) on a control host using a single Linux kernel. [Wikipedia](https://en.wikipedia.org/wiki/LXC)
-
 # GNU GRUB
 
 > GNU GRUB is a Multiboot boot loader. It was derived from GRUB, the GRand Unified Bootloader, which was originally designed and implemented by Erich Stefan Boleyn. 
@@ -16,4 +12,6 @@
 
 - [BTRFS Filesystem](https://btrfs.wiki.kernel.org/index.php/Main_Page)
 
+# Linux Containers
 
+> LXC (Linux Containers) is an operating-system-level virtualization method for running multiple isolated Linux systems (containers) on a control host using a single Linux kernel. [Wikipedia](https://en.wikipedia.org/wiki/LXC)

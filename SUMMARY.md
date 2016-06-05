@@ -6,9 +6,9 @@
 * [Supported Platforms](documentation/SupportedPlatforms.md)
 * Build System
    * [Downloading](documentation/Downloading.md)
+   * [Building](documentation/Building.md)
    * Tbd
 * [Getting Started](documentation/GettingStarted.md)
-   * [Building](documentation/Building.md)
    * [Running](documentation/Running.md)
 * [Architecture](documentation/Architecture.md)
    * [Building Blocks](documentation/BuildingBlocks.md)

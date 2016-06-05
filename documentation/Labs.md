@@ -385,6 +385,18 @@ root@cube-31-10-15-domE:~/TheIoTLearningInitiative/InternetOfThings101#
 ```
 
 ```sh
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/InternetOfThings101# python main.py 
+Hello Internet of Things 101
+Data Sensor: 58436 
+API Weather: Guadalajara, JO, Mexico, Temperature 27 C, Atmospheric Pressure 838 mbar 
+Hello Internet of Things 101
+Data Sensor: 58528 
+API Weather: Guadalajara, JO, Mexico, Temperature 27 C, Atmospheric Pressure 838 mbar 
+Hello Internet of Things 101
+Data Sensor: 58592 
+^Z
+[2]+  Stopped(SIGTSTP)        python main.py
+root@cube-31-10-15-domE:~/TheIoTLearningInitiative/InternetOfThings101# 
 ```
 
 ```sh

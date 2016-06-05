@@ -85,6 +85,8 @@ Currently 2 running tasks (320 of 8598):
 ...
 ```
 
+# Error
+
 ```
 | Checking for HAVE_UNIXSOCKET                                                      : ok
 | Checking for HAVE_SECURE_MKSTEMP                                                  : /home/xe1gyq/Projects/WindRiver/wr-core/build-intel-x86/tmp/work/core2-64-wrs-linux/talloc/2.1.1-r0/talloc-2.1.1/lib/replace/wscript:549: error: the configuration failed (see '/home/xe1gyq/Projects/WindRiver/wr-core/build-intel-x86/tmp/work/core2-64-wrs-linux/talloc/2.1.1-r0/talloc-2.1.1/bin/config.log')

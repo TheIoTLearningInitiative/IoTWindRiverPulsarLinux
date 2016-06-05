@@ -27,6 +27,8 @@
 
 ### User Management
 
+> Linux enables multiple users to use a single computer, through user accounts.
+
 ### Network Configuration
 
 ### Device Updates

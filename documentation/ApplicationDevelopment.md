@@ -8,3 +8,16 @@
 
 > You can develop applications directly on the device instead of working in a cross-compiling
 environment.
+
+### Example: Locally Develop Source Files and Build
+
+> The following is an example of writing and building an application directly on the device. For
+demonstrative purposes, a sample application from the gcc-example package is used. By default,
+sample applications from the gcc-example package are installed in the /opt/samples directory.
+
+### Example: Copy Source Files From a Git Repository and Build
+
+> The following example builds an application from source files that were copied from a thirdparty
+Git repository. The application is an ASCII game called msnake. Secondarily, the example
+also demonstrates how quickly you can install additional packages to help with application
+development.

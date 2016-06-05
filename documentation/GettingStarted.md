@@ -57,6 +57,14 @@ root@cube-31-10-15-domE:~#
 ```
 
 ```sh
+root@cube-31-10-15-domE:~# ls
+wr_pulsar_linux_getting_started_70.pdf
+wr_pulsar_linux_software_development_guide_70.pdf
+wr_pulsar_linux_system_integrators_guide_70.pdf
+root@cube-31-10-15-domE:~# 
+```
+
+```sh
 root@cube-31-10-15-domE:~# ping google.com
 PING google.com (74.125.28.113) 56(84) bytes of data.
 From simics0.network.sim (10.10.0.1) icmp_seq=1 Destination Host Unreachable
@@ -69,3 +77,4 @@ From simics0.network.sim (10.10.0.1) icmp_seq=4 Destination Host Unreachable
 
 root@cube-31-10-15-domE:~# 
 ```
+

@@ -431,3 +431,8 @@ root@cube-31-10-15-domE:~/python-telegram-bot/examples# dir
 LICENSE.txt  inlinebot.py		legacy		      timerbot.py
 echobot2.py  inlinekeyboard_example.py	state_machine_bot.py
 ```
+
+```sh
+root@cube-31-10-15-domE:~/python-telegram-bot/examples# vim timerbot.py 
+root@cube-31-10-15-domE:~/python-telegram-bot/examples# python timerbot.py 
+```

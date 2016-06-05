@@ -80,6 +80,9 @@ console.log('Servidor en http://127.0.0.1:8124');
 ```sh
 root@cube-31-10-15-domE:~# node server.js 
 Servidor en http://127.0.0.1:8124
+^Z
+[3]+  Stopped(SIGTSTP)        node server.js
+root@cube-31-10-15-domE:~# 
 ```
 
 ```sh

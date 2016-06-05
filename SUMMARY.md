@@ -14,6 +14,7 @@
    * [System Administration Guide](documentation/SystemAdministrationGuide.md)
 * [Application Development](documentation/ApplicationDevelopment.md)
    * [Python](documentation/Python.md)
+   * NodeJS
 * [Labs](documentation/Labs.md)
 * [SandBox](documentation/Sandbox.md)
 

@@ -21,3 +21,5 @@ sample applications from the gcc-example package are installed in the /opt/sampl
 Git repository. The application is an ASCII game called msnake. Secondarily, the example
 also demonstrates how quickly you can install additional packages to help with application
 development.
+
+## Building Source RPMs

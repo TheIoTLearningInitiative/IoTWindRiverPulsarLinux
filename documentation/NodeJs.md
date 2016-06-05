@@ -55,6 +55,9 @@ root@cube-31-10-15-domE:~#
 
 ```sh
 root@cube-31-10-15-domE:~# node
+> console.log('Holado!');
+Holado!
+undefined
 > 
 ```
 

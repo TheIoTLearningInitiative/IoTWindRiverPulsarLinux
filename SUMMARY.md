@@ -8,9 +8,9 @@
    * [Downloading](documentation/Downloading.md)
    * [Building](documentation/Building.md)
    * [Running](documentation/Running.md)
-* [Getting Started](documentation/GettingStarted.md)
 * [Architecture](documentation/Architecture.md)
    * [Building Blocks](documentation/BuildingBlocks.md)
+* [Getting Started](documentation/GettingStarted.md)
 * [SandBox](documentation/Sandbox.md)
 * Customization
 

@@ -1,5 +1,4 @@
-Terminology
-==
+# Terminology
 
 ## GNU GRUB
 

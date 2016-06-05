@@ -30,8 +30,38 @@ Saving cache...
 root@cube-31-10-15-domE:~# 
 ```
 
-```
+```sh
 root@cube-31-10-15-domE:~# node -v
 v0.10.35
 root@cube-31-10-15-domE:~# 
+```
+
+```sh
+root@cube-31-10-15-domE:~# npm cache clean -f
+npm WARN using --force I sure hope you know what you are doing.
+root@cube-31-10-15-domE:~# npm install -g n
+```
+
+```sh
+
+```
+
+```sh
+
+```
+
+```sh
+
+```
+
+```sh
+
+```
+
+```sh
+
+```
+
+```sh
+
 ```
